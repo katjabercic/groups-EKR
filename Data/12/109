@@ -1,0 +1,20 @@
+Transitive group number 109 of degree 12
+
+Order: 192
+
+Transitivity: 1
+
+Eigenvalues: [(140, 1), (20, 2), (20, 2), (-52, 1), (-16, 8), (-16, 8), (-4, 54), (-4, 54), (4, 54), (4, 54), (0, 72), (0, 72), (4, 54), (-4, 54)]
+
+EKR Property: None as []
+
+EKRM Property: None as []
+
+Strict EKR Property: False as ['Group does not have the EKR property']
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

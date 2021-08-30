@@ -1,0 +1,20 @@
+Transitive group number 58 of degree 18
+
+Order: 108
+
+Transitivity: 1
+
+Eigenvalues: [(76, 1), (22, 2), (22, 2), (-32, 1), (1, 48), (1, 48), (1, 48), (1, 48), (1, 48), (1, 48), (1, 48), (1, 48), (-5, 8), (-5, 8), (-2, 48), (-2, 48), (1, 48), (-2, 48)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: True as ['The group has an n-clique and every module not in the permutation representation contains a maximum coclique']
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

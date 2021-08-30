@@ -1,0 +1,20 @@
+Transitive group number 1009 of degree 16
+
+Order: 512
+
+Transitivity: 1
+
+Eigenvalues: [(369, 1), (49, 4), (49, 4), (49, 4), (49, 4), (-15, 18), (-143, 1), (-15, 18), (17, 4), (-47, 4), (1, 224), (1, 224), (1, 224), (1, 224), (1, 224), (1, 224), (1, 224), (1, 224), (-15, 18), (1, 224), (1, 224), (1, 224), (1, 224), (1, 224), (1, 224), (1, 224), (1, 224), (1, 224), (-1, 128), (-1, 128), (7, 64), (-9, 64)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: True
+
+Primitive: False
+

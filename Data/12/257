@@ -1,0 +1,20 @@
+Transitive group number 257 of degree 12
+
+Order: 3840
+
+Transitivity: 1
+
+Eigenvalues: [(2345, 1), (-55, 1), (65, 32), (65, 32), (-247, 25), (41, 25), (25, 486), (-25, 108), (-185, 36), (-25, 108), (-25, 108), (-1, 1200), (-1, 1200), (-1, 1200), (-1, 1200), (-7, 1350), (-7, 1350), (25, 486), (25, 486), (-1, 1200), (-1, 1200), (15, 576), (-7, 1350)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

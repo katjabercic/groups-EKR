@@ -1,0 +1,20 @@
+Transitive group number 265 of degree 20
+
+Order: 2880
+
+Transitivity: 1
+
+Eigenvalues: [(1674, 1), (54, 83), (234, 1), (54, 83), (-36, 4), (-6, 162), (-106, 81), (-6, 162), (54, 83), (18, 300), (-18, 300), (0, 500), (-72, 100), (18, 300), (18, 300), (-18, 300), (-18, 300), (9, 1024), (9, 1024), (9, 1024), (9, 1024), (4, 324), (0, 500)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: False as ['There is a coclique of size |G|/n that is not the stabilizer of a point or a coset of one']
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

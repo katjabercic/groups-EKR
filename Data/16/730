@@ -1,0 +1,20 @@
+Transitive group number 730 of degree 16
+
+Order: 384
+
+Transitivity: 1
+
+Eigenvalues: [(273, 1), (-111, 1), (33, 4), (33, 4), (33, 4), (33, 4), (1, 198), (1, 198), (9, 48), (9, 48), (9, 48), (-3, 64), (-3, 64), (-3, 64), (-3, 64), (-15, 32), (-15, 32), (1, 198), (-7, 36), (1, 198)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

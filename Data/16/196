@@ -1,0 +1,20 @@
+Transitive group number 196 of degree 16
+
+Order: 112
+
+Transitivity: 1
+
+Eigenvalues: [(63, 1), (-49, 1), (7, 12), (7, 12), (7, 12), (7, 12), (7, 12), (7, 12), (7, 12), (7, 12), (7, 12), (7, 12), (7, 12), (7, 12), (-1, 98), (-1, 98)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

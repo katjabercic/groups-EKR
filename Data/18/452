@@ -1,0 +1,20 @@
+Transitive group number 452 of degree 18
+
+Order: 4320
+
+Transitivity: 1
+
+Eigenvalues: [(2500, 1), (10, 357), (910, 1), (-20, 357), (-5, 1428), (-455, 4), (4, 25), (-212, 25), (-2, 25), (106, 25), (-14, 25), (22, 25), (28, 25), (-44, 25), (20, 81), (60, 81), (-10, 81), (-30, 81), (1, 100), (-53, 100), (7, 100), (-11, 100), (10, 357), (-26, 100), (-20, 357), (52, 100), (-20, 357), (10, 357), (5, 324), (15, 324), (-5, 1428), (13, 400), (-5, 1428)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

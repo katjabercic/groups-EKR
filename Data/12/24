@@ -1,0 +1,20 @@
+Transitive group number 24 of degree 12
+
+Order: 48
+
+Transitivity: 1
+
+Eigenvalues: [(38, 1), (2, 20), (2, 20), (-10, 1), (-4, 8), (-4, 8), (2, 20), (2, 20), (-2, 18), (-2, 18)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: False as ['The group has an n-clique and a maximum coclique sits in a module outside of the permutation representation']
+
+Strict EKR Property: False as ['Group does not have the EKRM property']
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

@@ -1,0 +1,20 @@
+Transitive group number 152 of degree 20
+
+Order: 720
+
+Transitivity: 1
+
+Eigenvalues: [(504, 1), (-36, 51), (0, 250), (0, 250), (-36, 51), (-36, 51), (9, 256), (9, 256), (9, 256), (9, 256), (-16, 81), (4, 81), (0, 250), (0, 250)]
+
+EKR Property: None as []
+
+EKRM Property: None as []
+
+Strict EKR Property: False as ['Group does not have the EKR property']
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

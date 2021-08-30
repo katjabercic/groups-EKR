@@ -1,0 +1,20 @@
+Transitive group number 176 of degree 12
+
+Order: 648
+
+Transitivity: 1
+
+Eigenvalues: [(312, 1), (150, 1), (-66, 2), (-66, 2), (96, 2), (96, 2), (6, 137), (-48, 9), (3, 144), (3, 144), (3, 144), (3, 144), (-21, 64), (6, 137), (6, 137), (0, 288), (0, 288)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

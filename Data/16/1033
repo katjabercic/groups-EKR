@@ -1,0 +1,20 @@
+Transitive group number 1033 of degree 16
+
+Order: 576
+
+Transitivity: 1
+
+Eigenvalues: [(351, 1), (-45, 20), (-45, 20), (-9, 116), (45, 8), (9, 80), (45, 8), (9, 80), (-9, 116), (15, 18), (3, 180), (-45, 20), (15, 18), (3, 180), (-45, 20), (-9, 116), (-9, 116), (-3, 72), (9, 80), (-3, 72), (9, 80), (3, 180), (3, 180), (-1, 81), (-9, 116)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: True as ['The group has an n-clique and every module not in the permutation representation contains a maximum coclique']
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

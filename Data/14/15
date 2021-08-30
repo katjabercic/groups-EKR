@@ -1,0 +1,20 @@
+Transitive group number 15 of degree 14
+
+Order: 294
+
+Transitivity: 1
+
+Eigenvalues: [(183, 1), (-111, 1), (36, 4), (1, 216), (1, 216), (1, 216), (1, 216), (1, 216), (1, 216), (1, 216), (1, 216), (1, 216), (1, 216), (1, 216), (1, 216), (1, 216), (1, 216), (1, 216), (-6, 72), (-6, 72)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

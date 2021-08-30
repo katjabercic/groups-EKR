@@ -1,0 +1,20 @@
+Transitive group number 121 of degree 18
+
+Order: 324
+
+Transitivity: 1
+
+Eigenvalues: [(220, 1), (58, 2), (58, 2), (-104, 1), (4, 24), (4, 24), (4, 24), (4, 24), (4, 24), (4, 24), (4, 24), (4, 24), (-23, 8), (-23, 8), (1, 144), (1, 144), (4, 24), (4, 24), (4, 24), (4, 24), (1, 144), (1, 144), (1, 144), (1, 144), (1, 144), (1, 144), (1, 144), (1, 144), (1, 144), (-2, 144)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

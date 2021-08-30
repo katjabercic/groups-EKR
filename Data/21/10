@@ -1,0 +1,20 @@
+Transitive group number 10 of degree 21
+
+Order: 126
+
+Transitivity: 1
+
+Eigenvalues: [(48, 2), (48, 2), (6, 12), (6, 12), (6, 12), (6, 12), (-15, 4), (6, 12), (6, 12), (-1, 108), (-1, 108), (-1, 108)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: True as ['The group has an n-clique and every module not in the permutation representation contains a maximum coclique']
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

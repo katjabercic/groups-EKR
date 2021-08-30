@@ -1,0 +1,20 @@
+Transitive group number 413 of degree 16
+
+Order: 128
+
+Transitivity: 1
+
+Eigenvalues: [(105, 1), (9, 4), (9, 4), (-23, 3), (9, 4), (9, 4), (-23, 3), (-23, 3), (1, 72), (1, 72), (1, 72), (1, 72), (-3, 48), (1, 72), (1, 72), (-3, 48), (-3, 48)]
+
+EKR Property: None as []
+
+EKRM Property: None as []
+
+Strict EKR Property: False as ['Group does not have the EKR property']
+
+Abelian: False
+
+Nilpotent: True
+
+Primitive: False
+

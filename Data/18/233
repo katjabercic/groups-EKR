@@ -1,0 +1,20 @@
+Transitive group number 233 of degree 18
+
+Order: 972
+
+Transitivity: 1
+
+Eigenvalues: [(622, 1), (136, 2), (136, 2), (-350, 1), (28, 8), (28, 8), (28, 8), (28, 8), (28, 8), (28, 8), (28, 8), (28, 8), (19, 16), (19, 16), (19, 16), (19, 16), (-8, 176), (-8, 176), (-8, 176), (-8, 176), (-8, 176), (-8, 176), (-8, 176), (-8, 176), (-44, 16), (10, 32), (10, 32), (1, 720), (1, 720), (1, 720), (1, 720), (1, 720), (1, 720), (1, 720), (1, 720), (-8, 176)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

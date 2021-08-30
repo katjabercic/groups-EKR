@@ -1,0 +1,20 @@
+Transitive group number 219 of degree 12
+
+Order: 1440
+
+Transitivity: 1
+
+Eigenvalues: [(985, 1), (-5, 714), (-455, 1), (-5, 714), (1, 50), (-53, 50), (1, 50), (-53, 50), (7, 50), (-11, 50), (7, 50), (-11, 50), (5, 162), (15, 162), (5, 162), (15, 162), (-5, 714), (13, 200), (-5, 714), (13, 200), (-5, 714), (-5, 714)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

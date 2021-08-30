@@ -1,0 +1,20 @@
+Transitive group number 1090 of degree 16
+
+Order: 1024
+
+Transitivity: 1
+
+Eigenvalues: [(825, 1), (1, 80), (1, 80), (25, 16), (25, 16), (1, 80), (1, 80), (25, 16), (25, 16), (1, 80), (1, 80), (-7, 12), (-7, 12), (1, 80), (1, 80), (-199, 3), (1, 80), (1, 80), (25, 16), (25, 16), (1, 80), (1, 80), (25, 16), (25, 16), (1, 80), (1, 80), (-7, 12), (-7, 12), (1, 80), (1, 80), (-199, 3), (-199, 3), (1, 80), (-7, 12), (1, 80), (25, 16), (1, 80), (-7, 12), (1, 80), (25, 16), (5, 192), (-3, 192), (5, 192), (-3, 192), (5, 192), (5, 192), (-3, 192), (-3, 192), (1, 80), (1, 80), (1, 80), (-31, 16), (-3, 192), (5, 192), (-3, 192), (5, 192), (-1, 256), (3, 192), (-1, 256), (3, 192), (-1, 256), (3, 192), (-1, 256), (-13, 64)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: True as ['The group has an n-clique and every module not in the permutation representation contains a maximum coclique']
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: True
+
+Primitive: False
+

@@ -1,0 +1,20 @@
+Transitive group number 1007 of degree 16
+
+Order: 512
+
+Transitivity: 1
+
+Eigenvalues: [(385, 1), (65, 2), (-127, 1), (65, 2), (-31, 14), (-31, 14), (33, 2), (33, 2), (1, 236), (-31, 14), (1, 236), (1, 236), (-31, 14), (-31, 14), (1, 236), (1, 236), (1, 236), (1, 236), (1, 236), (1, 236), (1, 236), (1, 236), (1, 236), (1, 236), (1, 236), (-1, 128), (-1, 128), (7, 64), (-9, 64)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: True
+
+Primitive: False
+

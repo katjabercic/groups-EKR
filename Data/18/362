@@ -1,0 +1,20 @@
+Transitive group number 362 of degree 18
+
+Order: 2160
+
+Transitivity: 1
+
+Eigenvalues: [(1705, 1), (-5, 1071), (-5, 1071), (-5, 1071), (-455, 2), (-455, 2), (1, 75), (-53, 75), (7, 75), (-11, 75), (1, 75), (1, 75), (-53, 75), (-53, 75), (7, 75), (7, 75), (-11, 75), (-11, 75), (5, 243), (15, 243), (5, 243), (5, 243), (15, 243), (15, 243), (-5, 1071), (13, 300), (-5, 1071), (-5, 1071), (13, 300), (13, 300), (-5, 1071), (-5, 1071), (-5, 1071)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

@@ -1,0 +1,20 @@
+Transitive group number 123 of degree 12
+
+Order: 240
+
+Transitivity: 1
+
+Eigenvalues: [(170, 1), (-10, 52), (-10, 52), (-70, 1), (5, 64), (5, 64), (5, 64), (5, 64), (2, 50), (-10, 52), (-10, 52), (2, 50), (0, 72), (0, 72)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

@@ -1,0 +1,20 @@
+Transitive group number 18 of degree 10
+
+Order: 200
+
+Transitivity: 1
+
+Eigenvalues: [(116, 1), (-84, 1), (16, 6), (16, 6), (16, 6), (16, 6), (16, 6), (16, 6), (-4, 64), (1, 128), (1, 128)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

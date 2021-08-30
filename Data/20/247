@@ -1,0 +1,20 @@
+Transitive group number 247 of degree 20
+
+Order: 2560
+
+Transitivity: 1
+
+Eigenvalues: [(2129, 1), (-431, 4), (-431, 4), (-431, 4), (-431, 4), (-1, 880), (-1, 880), (-1, 880), (-1, 880), (-1, 880), (-47, 25), (17, 50), (17, 50), (15, 200), (15, 200), (-17, 200), (-17, 200), (1, 1200), (1, 1200), (1, 1200), (1, 1200), (-1, 880), (-1, 880), (-1, 880), (-1, 880), (-1, 880), (1, 1200), (1, 1200)]
+
+EKR Property: True as ['A weighting on derangement classes gives EKR']
+
+EKRM Property: None as []
+
+Strict EKR Property: False as ['There is a coclique of size |G|/n that is not the stabilizer of a point or a coset of one']
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

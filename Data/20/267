@@ -1,0 +1,20 @@
+Transitive group number 267 of degree 20
+
+Order: 2880
+
+Transitivity: 1
+
+Eigenvalues: [(1332, 1), (180, 2), (180, 2), (132, 18), (132, 18), (-60, 36), (-60, 36), (-60, 36), (-60, 36), (-288, 16), (0, 32), (0, 32), (36, 75), (36, 75), (36, 75), (-12, 675), (-12, 675), (-12, 675), (4, 2025)]
+
+EKR Property: None as []
+
+EKRM Property: None as []
+
+Strict EKR Property: False as ['Group does not have the EKR property']
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

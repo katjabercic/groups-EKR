@@ -1,0 +1,20 @@
+Transitive group number 23 of degree 12
+
+Order: 48
+
+Transitivity: 1
+
+Eigenvalues: [(38, 1), (2, 20), (2, 20), (-10, 1), (-4, 8), (-4, 8), (2, 20), (2, 20), (-2, 18), (-2, 18)]
+
+EKR Property: None as []
+
+EKRM Property: None as []
+
+Strict EKR Property: False as ['Group does not have the EKR property']
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

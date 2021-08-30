@@ -1,0 +1,20 @@
+Transitive group number 233 of degree 12
+
+Order: 1944
+
+Transitivity: 1
+
+Eigenvalues: [(1177, 1), (205, 1), (43, 4), (1, 384), (1, 384), (1, 384), (97, 9), (-227, 9), (1, 384), (1, 384), (1, 384), (1, 384), (1, 384), (-62, 64), (1, 384), (-2, 768), (1, 384), (1, 384), (-2, 768), (-2, 768), (19, 128), (19, 128), (4, 576), (4, 576), (4, 576), (4, 576), (-2, 768)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: True as ['The group has an n-clique and every module not in the permutation representation contains a maximum coclique']
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

@@ -1,0 +1,20 @@
+Transitive group number 335 of degree 18
+
+Order: 1728
+
+Transitivity: 1
+
+Eigenvalues: [(1280, 1), (128, 6), (128, 6), (-448, 2), (-448, 2), (128, 6), (128, 6), (128, 6), (128, 6), (-64, 18), (-64, 18), (0, 1701), (0, 1701), (0, 1701), (0, 1701), (0, 1701)]
+
+EKR Property: False as ['A coclique of size larger than |G|/n exists']
+
+EKRM Property: None as []
+
+Strict EKR Property: False as ['Group does not have the EKR property']
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

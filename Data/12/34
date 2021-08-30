@@ -1,0 +1,20 @@
+Transitive group number 34 of degree 12
+
+Order: 72
+
+Transitivity: 1
+
+Eigenvalues: [(58, 1), (-14, 3), (-14, 3), (-14, 3), (4, 4), (1, 32), (1, 32), (-2, 32), (-2, 32)]
+
+EKR Property: None as []
+
+EKRM Property: None as []
+
+Strict EKR Property: False as ['Group does not have the EKR property']
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

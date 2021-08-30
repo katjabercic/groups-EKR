@@ -1,0 +1,20 @@
+Transitive group number 278 of degree 18
+
+Order: 1152
+
+Transitivity: 1
+
+Eigenvalues: [(800, 1), (224, 1), (-64, 16), (-64, 16), (-64, 16), (-64, 16), (0, 972), (0, 972), (32, 81), (-32, 81), (0, 972), (0, 972), (0, 972), (0, 972), (0, 972), (0, 972), (0, 972), (0, 972), (0, 972), (0, 972)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: False as ['The group has an n-clique and a maximum coclique sits in a module outside of the permutation representation']
+
+Strict EKR Property: False as ['Group does not have the EKRM property']
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

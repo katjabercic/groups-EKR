@@ -1,0 +1,20 @@
+Transitive group number 234 of degree 18
+
+Order: 972
+
+Transitivity: 1
+
+Eigenvalues: [(814, 1), (4, 102), (4, 102), (-158, 5), (4, 102), (4, 102), (4, 102), (4, 102), (-158, 5), (-158, 5), (-158, 5), (-158, 5), (4, 102), (4, 102), (4, 102), (4, 102), (4, 102), (4, 102), (4, 102), (4, 102), (4, 102), (4, 102), (4, 102), (4, 102), (4, 102), (4, 102), (4, 102), (1, 432), (1, 432), (1, 432), (1, 432), (1, 432), (1, 432), (-2, 432), (-2, 432), (-2, 432)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: False as ['The group has an n-clique and a maximum coclique sits in a module outside of the permutation representation']
+
+Strict EKR Property: False as ['Group does not have the EKRM property']
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

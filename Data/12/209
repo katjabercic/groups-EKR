@@ -1,0 +1,20 @@
+Transitive group number 209 of degree 12
+
+Order: 1296
+
+Transitivity: 1
+
+Eigenvalues: [(898, 1), (106, 2), (-398, 1), (106, 2), (88, 2), (88, 2), (-56, 2), (-56, 2), (16, 4), (-146, 4), (13, 64), (-5, 64), (1, 256), (1, 256), (1, 256), (1, 256), (13, 64), (-5, 64), (-5, 64), (13, 64), (-5, 64), (13, 64), (1, 256), (1, 256), (1, 256), (1, 256), (1, 256), (1, 256), (-2, 512), (-2, 512), (-2, 512), (-2, 512), (10, 64), (-26, 64), (-2, 512), (4, 256)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

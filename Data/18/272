@@ -1,0 +1,20 @@
+Transitive group number 272 of degree 18
+
+Order: 1152
+
+Transitivity: 1
+
+Eigenvalues: [(740, 1), (44, 1), (-52, 1), (68, 1), (56, 4), (-58, 16), (26, 16), (32, 16), (-64, 16), (-8, 36), (-4, 36), (8, 360), (4, 117), (12, 81), (-20, 81), (4, 117), (-28, 81), (-2, 144), (2, 144), (8, 360)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

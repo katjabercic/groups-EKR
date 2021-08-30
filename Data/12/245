@@ -1,0 +1,20 @@
+Transitive group number 245 of degree 12
+
+Order: 2592
+
+Transitivity: 1
+
+Eigenvalues: [(1960, 1), (16, 28), (16, 28), (-632, 3), (16, 28), (16, 28), (-632, 3), (-632, 3), (16, 28), (16, 28), (16, 28), (4, 768), (4, 768), (4, 768), (4, 768), (-8, 256), (-8, 256), (-8, 256), (-8, 256), (1, 512), (1, 512), (1, 512), (1, 512), (1, 512), (1, 512), (1, 512), (1, 512), (4, 768), (4, 768), (-2, 1024)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

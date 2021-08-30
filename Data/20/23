@@ -1,0 +1,20 @@
+Transitive group number 23 of degree 20
+
+Order: 80
+
+Transitivity: 1
+
+Eigenvalues: [(64, 1), (-16, 4), (-16, 4), (-16, 4), (-16, 4), (0, 75), (0, 75), (0, 75)]
+
+EKR Property: False as ['A coclique of size larger than |G|/n exists']
+
+EKRM Property: None as []
+
+Strict EKR Property: False as ['Group does not have the EKR property']
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

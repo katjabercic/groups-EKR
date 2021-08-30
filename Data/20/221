@@ -1,0 +1,20 @@
+Transitive group number 221 of degree 20
+
+Order: 1920
+
+Transitivity: 1
+
+Eigenvalues: [(1124, 1), (4, 1162), (-176, 16), (-16, 16), (20, 250), (52, 25), (4, 1162), (20, 250), (-28, 225), (-12, 225), (4, 1162), (4, 1162)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: False as ['The group has an n-clique and a maximum coclique sits in a module outside of the permutation representation']
+
+Strict EKR Property: False as ['Group does not have the EKRM property']
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

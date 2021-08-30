@@ -1,0 +1,20 @@
+Transitive group number 197 of degree 18
+
+Order: 648
+
+Transitivity: 1
+
+Eigenvalues: [(467, 1), (-19, 12), (-19, 12), (-19, 12), (-181, 2), (-181, 2), (35, 9), (-19, 12), (-4, 144), (-4, 144), (-4, 144), (-4, 144), (-1, 192), (-1, 192), (-1, 192), (2, 288), (2, 288)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: False as ['The group has an n-clique and a maximum coclique sits in a module outside of the permutation representation']
+
+Strict EKR Property: False as ['Group does not have the EKRM property']
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

@@ -1,0 +1,20 @@
+Transitive group number 80 of degree 18
+
+Order: 162
+
+Transitivity: 1
+
+Eigenvalues: [(121, 1), (-41, 1), (13, 8), (13, 8), (13, 8), (13, 8), (1, 72), (1, 72), (1, 72), (1, 72), (1, 72), (1, 72), (1, 72), (1, 72), (1, 72), (1, 72), (1, 72), (1, 72), (13, 8), (-14, 8), (-14, 8), (1, 72), (1, 72), (1, 72), (1, 72), (1, 72), (1, 72), (1, 72), (-2, 72), (-2, 72)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

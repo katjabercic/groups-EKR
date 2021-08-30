@@ -1,0 +1,20 @@
+Transitive group number 174 of degree 20
+
+Order: 960
+
+Transitivity: 1
+
+Eigenvalues: [(732, 1), (76, 2), (-4, 224), (-4, 224), (76, 2), (-228, 1), (12, 124), (12, 124), (-76, 4), (4, 298), (-3, 32), (-33, 32), (-3, 32), (-33, 32), (1, 32), (11, 32), (1, 32), (11, 32), (12, 124), (-12, 50), (12, 124), (-12, 50), (-4, 224), (4, 298), (-4, 224), (4, 298), (12, 124), (12, 124), (-4, 224), (-4, 224), (-1, 64), (-11, 64), (4, 298), (-4, 224), (4, 298)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

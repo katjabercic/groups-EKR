@@ -1,0 +1,20 @@
+Transitive group number 256 of degree 18
+
+Order: 972
+
+Transitivity: 1
+
+Eigenvalues: [(820, 1), (10, 6), (-152, 5), (10, 6), (10, 6), (-152, 5), (1, 384), (1, 384), (7, 24), (7, 24), (7, 24), (-2, 264), (1, 384), (-2, 264), (-2, 264), (4, 144), (4, 144), (4, 144), (4, 144), (-2, 264), (-2, 264), (1, 384), (1, 384), (1, 384), (1, 384), (1, 384), (1, 384), (-5, 144), (-2, 264), (1, 384)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

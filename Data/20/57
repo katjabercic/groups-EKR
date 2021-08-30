@@ -1,0 +1,20 @@
+Transitive group number 57 of degree 20
+
+Order: 200
+
+Transitivity: 1
+
+Eigenvalues: [(141, 1), (41, 2), (41, 2), (-59, 1), (-9, 4), (-4, 64), (-4, 64), (1, 128), (1, 128), (1, 128), (1, 128), (-4, 64), (-4, 64), (1, 128)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: False as ['There is a coclique of size |G|/n that is not the stabilizer of a point or a coset of one']
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

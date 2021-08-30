@@ -1,0 +1,20 @@
+Transitive group number 134 of degree 20
+
+Order: 640
+
+Transitivity: 1
+
+Eigenvalues: [(489, 1), (-1, 120), (-151, 1), (-1, 120), (-1, 120), (-1, 120), (89, 2), (89, 2), (-1, 120), (-31, 16), (-1, 120), (9, 50), (-1, 120), (9, 50), (-1, 120), (-1, 120), (-7, 50), (-7, 50), (1, 200), (7, 100), (1, 200), (-9, 100)]
+
+EKR Property: None as []
+
+EKRM Property: None as []
+
+Strict EKR Property: False as ['Group does not have the EKR property']
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

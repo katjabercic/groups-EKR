@@ -1,0 +1,20 @@
+Transitive group number 47 of degree 15
+
+Order: 2520
+
+Transitivity: 2
+
+Eigenvalues: [(784, 1), (84, 36), (28, 200), (28, 200), (4, 196), (-56, 196), (0, 225), (24, 441), (-8, 1225)]
+
+EKR Property: True as ['Ratiobound gives EKR property', 'A weighting on derangement classes gives EKR']
+
+EKRM Property: None as []
+
+Strict EKR Property: False as ['There is a coclique of size |G|/n that is not the stabilizer of a point or a coset of one']
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: True
+

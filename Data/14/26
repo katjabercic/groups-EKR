@@ -1,0 +1,20 @@
+Transitive group number 26 of degree 14
+
+Order: 882
+
+Transitivity: 1
+
+Eigenvalues: [(477, 1), (-405, 1), (36, 16), (36, 16), (36, 16), (36, 16), (36, 16), (36, 16), (36, 16), (-6, 216), (-6, 216), (-6, 216), (-6, 216), (-6, 216), (-6, 216), (1, 648), (1, 648), (1, 648), (1, 648), (1, 648)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

@@ -1,0 +1,18 @@
+The eigenvalue data generated has been printed in each file in an incorrect form.
+
+The intended form is:
+
+	Eigenvalues: [(eigenvalue_1, multiplicity_1), (eigenvalue_2, multiplicity_2), ...]
+
+
+For example, a file may say:
+
+
+	Eigenvalues: [(26, 1), (-10, 1), (8, 2), (8, 2), (-1, 32), (-1, 32)]
+	
+
+When ideally it would say:
+
+	Eigenvalues: [(26, 1), (-10, 1), (8, 2), (-1, 32)]
+
+This bug has been fixed, so any more data generated will have the correct form.

@@ -1,0 +1,20 @@
+Transitive group number 10 of degree 20
+
+Order: 40
+
+Transitivity: 1
+
+Eigenvalues: [(29, 1), (9, 2), (9, 2), (-11, 1), (-1, 36), (-1, 36), (-1, 36), (-1, 36), (-1, 36), (-1, 36), (-1, 36), (-1, 36), (-1, 36)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: True as ['The group has an n-clique and every module not in the permutation representation contains a maximum coclique']
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

@@ -1,0 +1,20 @@
+Transitive group number 191 of degree 16
+
+Order: 96
+
+Transitivity: 1
+
+Eigenvalues: [(75, 1), (3, 36), (3, 36), (-21, 1), (3, 36), (3, 36), (-9, 4), (3, 36), (3, 36), (3, 36), (3, 36), (-5, 18), (-5, 18), (-1, 36)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

@@ -1,0 +1,20 @@
+Transitive group number 261 of degree 18
+
+Order: 1080
+
+Transitivity: 1
+
+Eigenvalues: [(850, 1), (-230, 2), (-230, 2), (-26, 75), (-2, 75), (-26, 75), (-26, 75), (-2, 75), (-2, 75), (-5, 384), (-5, 384), (-5, 384), (-5, 384), (-5, 384), (-5, 384), (10, 243), (10, 243), (10, 243), (4, 300), (4, 300), (4, 300)]
+
+EKR Property: None as []
+
+EKRM Property: None as []
+
+Strict EKR Property: False as ['Group does not have the EKR property']
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

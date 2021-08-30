@@ -1,0 +1,20 @@
+Transitive group number 301 of degree 18
+
+Order: 1296
+
+Transitivity: 1
+
+Eigenvalues: [(953, 1), (143, 1), (89, 1), (-73, 1), (-127, 4), (35, 13), (53, 9), (35, 13), (-19, 9), (-109, 9), (-31, 72), (5, 216), (5, 216), (-31, 72), (5, 216), (5, 216), (5, 216), (5, 216), (-1, 384), (-1, 384), (-1, 384), (-1, 384), (-1, 384), (-1, 384), (2, 576), (2, 576), (2, 576), (2, 576)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

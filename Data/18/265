@@ -1,0 +1,20 @@
+Transitive group number 265 of degree 18
+
+Order: 1152
+
+Transitivity: 1
+
+Eigenvalues: [(689, 1), (-1, 252), (-1, 252), (113, 3), (113, 3), (113, 3), (-1, 252), (-1, 252), (-1, 252), (-31, 32), (-1, 252), (-31, 32), (-1, 252), (1, 540), (-1, 252), (1, 540), (1, 540), (1, 540), (15, 243), (-49, 81), (15, 243), (15, 243), (1, 540), (1, 540), (1, 540), (-1, 252)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

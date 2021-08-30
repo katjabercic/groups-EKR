@@ -1,0 +1,20 @@
+Transitive group number 747 of degree 16
+
+Order: 384
+
+Transitivity: 1
+
+Eigenvalues: [(309, 1), (-3, 70), (-3, 70), (-75, 1), (9, 8), (9, 8), (-3, 70), (-3, 70), (5, 54), (5, 54), (5, 54), (5, 54), (-19, 18), (-19, 18), (-3, 70), (-3, 70), (5, 54), (5, 54), (-3, 70), (-15, 32), (-15, 32), (-3, 70), (1, 72), (1, 72), (3, 128), (3, 128)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: True as ['The group has an n-clique and every module not in the permutation representation contains a maximum coclique']
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

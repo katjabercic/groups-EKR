@@ -1,0 +1,20 @@
+Transitive group number 257 of degree 20
+
+Order: 2560
+
+Transitivity: 1
+
+Eigenvalues: [(2124, 1), (44, 5), (44, 5), (44, 5), (44, 5), (44, 5), (-436, 4), (-436, 4), (-436, 4), (-436, 4), (-12, 50), (20, 50), (-12, 50), (20, 50), (-4, 925), (-36, 25), (4, 200), (0, 600), (-4, 925), (-4, 925), (8, 600), (-4, 925), (8, 600), (0, 600), (8, 600), (-4, 925), (0, 600), (-4, 925), (8, 600), (-4, 925), (-20, 100), (8, 600), (-4, 925), (0, 600), (8, 600), (4, 200), (-4, 925), (-4, 925), (0, 600), (0, 600)]
+
+EKR Property: True as ['A weighting on derangement classes gives EKR']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

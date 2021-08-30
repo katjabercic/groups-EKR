@@ -1,0 +1,20 @@
+Transitive group number 376 of degree 18
+
+Order: 2304
+
+Transitivity: 1
+
+Eigenvalues: [(1640, 1), (-40, 1), (248, 1), (200, 1), (-208, 4), (80, 4), (-232, 4), (104, 4), (-8, 297), (-8, 297), (8, 216), (8, 216), (-64, 16), (-8, 297), (8, 216), (0, 1512), (0, 1512), (8, 216), (8, 216), (-8, 297), (-8, 297), (-8, 297), (24, 81), (40, 81), (-56, 81), (0, 1512), (0, 1512), (0, 1512), (0, 1512), (0, 1512)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

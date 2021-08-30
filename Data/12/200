@@ -1,0 +1,20 @@
+Transitive group number 200 of degree 12
+
+Order: 1152
+
+Transitivity: 1
+
+Eigenvalues: [(772, 1), (4, 362), (4, 362), (-380, 1), (28, 40), (-56, 16), (-8, 160), (16, 32), (16, 32), (-4, 360), (4, 362), (28, 40), (-28, 36), (4, 362), (4, 362), (4, 362), (4, 362), (8, 144), (-8, 160), (-4, 360)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: False as ['The group has an n-clique and a maximum coclique sits in a module outside of the permutation representation']
+
+Strict EKR Property: False as ['Group does not have the EKRM property']
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

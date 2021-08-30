@@ -1,0 +1,20 @@
+Transitive group number 187 of degree 12
+
+Order: 768
+
+Transitivity: 1
+
+Eigenvalues: [(575, 1), (-13, 39), (-13, 39), (-13, 39), (-193, 2), (-193, 2), (15, 9), (3, 189), (23, 9), (-37, 9), (-9, 18), (-5, 90), (7, 81), (-9, 18), (-5, 90), (11, 9), (-1, 312), (-1, 312), (-1, 312), (-1, 312), (-1, 312), (-1, 312), (3, 189), (-5, 90), (-5, 90), (-13, 39), (-1, 312), (-1, 312), (7, 81), (7, 81), (-1, 312), (3, 189)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

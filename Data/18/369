@@ -1,0 +1,20 @@
+Transitive group number 369 of degree 18
+
+Order: 2304
+
+Transitivity: 1
+
+Eigenvalues: [(2048, 1), (-256, 8), (-256, 8), (-256, 8), (-256, 8), (-256, 8), (-256, 8), (-256, 8), (-256, 8), (0, 2295), (0, 2295), (0, 2295), (0, 2295), (0, 2295), (0, 2295), (0, 2295), (0, 2295), (0, 2295), (0, 2295), (0, 2295), (0, 2295), (0, 2295), (0, 2295), (0, 2295), (0, 2295), (0, 2295), (0, 2295), (0, 2295), (0, 2295), (0, 2295), (0, 2295), (0, 2295), (0, 2295), (0, 2295), (0, 2295), (0, 2295), (0, 2295), (0, 2295), (0, 2295), (0, 2295), (0, 2295), (0, 2295), (0, 2295), (0, 2295), (0, 2295), (0, 2295), (0, 2295), (0, 2295)]
+
+EKR Property: False as ['A coclique of size larger than |G|/n exists']
+
+EKRM Property: None as []
+
+Strict EKR Property: False as ['Group does not have the EKR property']
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

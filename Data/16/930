@@ -1,0 +1,20 @@
+Transitive group number 930 of degree 16
+
+Order: 512
+
+Transitivity: 1
+
+Eigenvalues: [(373, 1), (-27, 2), (53, 2), (37, 2), (-139, 1), (-27, 2), (53, 2), (37, 2), (-3, 24), (-3, 24), (13, 8), (13, 8), (-3, 24), (-3, 24), (13, 8), (13, 8), (-3, 24), (13, 8), (5, 84), (-43, 4), (5, 84), (5, 84), (-3, 24), (-3, 24), (-3, 24), (-3, 24), (5, 84), (5, 84), (1, 304), (1, 304), (1, 304), (-15, 16), (1, 304), (1, 304), (1, 304), (1, 304), (1, 304), (5, 84), (-11, 64), (1, 304), (1, 304)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: True
+
+Primitive: False
+

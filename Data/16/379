@@ -1,0 +1,20 @@
+Transitive group number 379 of degree 16
+
+Order: 128
+
+Transitivity: 1
+
+Eigenvalues: [(89, 1), (1, 72), (1, 72), (1, 72), (1, 72), (25, 2), (25, 2), (-39, 1), (1, 72), (1, 72), (1, 72), (-7, 4), (1, 72), (1, 72), (1, 72), (1, 72), (1, 72), (1, 72), (-3, 48), (1, 72), (1, 72), (-3, 48), (-3, 48)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: False as ['There is a coclique of size |G|/n that is not the stabilizer of a point or a coset of one']
+
+Abelian: False
+
+Nilpotent: True
+
+Primitive: False
+

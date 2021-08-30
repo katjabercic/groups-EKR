@@ -1,0 +1,20 @@
+Transitive group number 729 of degree 16
+
+Order: 384
+
+Transitivity: 1
+
+Eigenvalues: [(305, 1), (1, 168), (1, 168), (1, 168), (17, 6), (17, 6), (1, 168), (17, 6), (1, 168), (1, 168), (-31, 8), (-31, 8), (1, 168), (-15, 9), (-17, 32), (-17, 32), (-1, 96), (-1, 96), (7, 64), (7, 64), (7, 64), (7, 64), (-1, 96), (-1, 96), (-1, 96), (-1, 96), (1, 168), (1, 168), (1, 168), (1, 168)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

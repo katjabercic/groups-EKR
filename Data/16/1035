@@ -1,0 +1,20 @@
+Transitive group number 1035 of degree 16
+
+Order: 672
+
+Transitivity: 1
+
+Eigenvalues: [(483, 1), (-21, 100), (-189, 1), (-21, 100), (7, 216), (7, 216), (7, 216), (7, 216), (7, 216), (7, 216), (3, 98), (-21, 100), (3, 98), (-21, 100), (0, 256), (0, 256), (0, 256), (0, 256)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

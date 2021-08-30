@@ -1,0 +1,20 @@
+Transitive group number 42 of degree 8
+
+Order: 288
+
+Transitivity: 1
+
+Eigenvalues: [(153, 1), (-135, 1), (9, 16), (9, 16), (9, 16), (9, 16), (9, 16), (9, 16), (9, 16), (-3, 108), (-3, 108), (-3, 108), (1, 162), (1, 162)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

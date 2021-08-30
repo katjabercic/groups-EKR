@@ -1,0 +1,20 @@
+Transitive group number 758 of degree 16
+
+Order: 384
+
+Transitivity: 1
+
+Eigenvalues: [(267, 1), (27, 2), (27, 2), (-117, 1), (3, 244), (3, 244), (-5, 18), (-5, 18), (11, 18), (11, 18), (3, 244), (3, 244), (3, 244), (-13, 36), (-9, 64), (3, 244), (3, 244)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: False as ['There is a coclique of size |G|/n that is not the stabilizer of a point or a coset of one']
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

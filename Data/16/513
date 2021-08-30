@@ -1,0 +1,20 @@
+Transitive group number 513 of degree 16
+
+Order: 256
+
+Transitivity: 1
+
+Eigenvalues: [(217, 1), (1, 80), (1, 80), (1, 80), (1, 80), (1, 80), (1, 80), (1, 80), (1, 80), (9, 4), (9, 4), (9, 4), (9, 4), (-39, 3), (-39, 3), (-39, 3), (-3, 16), (-3, 16), (5, 16), (5, 16), (1, 80), (1, 80), (1, 80), (1, 80), (1, 80), (1, 80), (1, 80), (1, 80), (1, 80), (1, 80), (-3, 16), (-3, 16), (5, 16), (5, 16), (-15, 8), (-15, 8), (1, 80), (1, 80), (-1, 64), (-1, 64), (-1, 64), (-1, 64), (3, 32), (3, 32), (-5, 32), (-5, 32)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: True
+
+Primitive: False
+

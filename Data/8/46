@@ -1,0 +1,20 @@
+Transitive group number 46 of degree 8
+
+Order: 576
+
+Transitivity: 1
+
+Eigenvalues: [(333, 1), (-243, 1), (-27, 2), (-27, 2), (9, 68), (9, 68), (9, 68), (-15, 36), (5, 162), (5, 162), (-3, 306), (-3, 306), (-3, 306)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

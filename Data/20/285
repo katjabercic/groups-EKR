@@ -1,0 +1,20 @@
+Transitive group number 285 of degree 20
+
+Order: 3840
+
+Transitivity: 1
+
+Eigenvalues: [(2509, 1), (19, 101), (-21, 1), (-91, 1), (-41, 16), (-181, 16), (9, 116), (-11, 241), (85, 25), (-163, 25), (3, 650), (-5, 250), (13, 25), (37, 25), (11, 25), (-13, 25), (89, 36), (-1, 536), (-3, 325), (-7, 100), (5, 100), (9, 116), (-37, 100), (-17, 100), (19, 101), (-97, 100), (25, 100), (-1, 536), (-3, 325), (-11, 241), (-5, 250), (3, 650), (3, 650), (-1, 536), (29, 400), (1, 400)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

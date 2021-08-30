@@ -1,0 +1,20 @@
+Transitive group number 1058 of degree 16
+
+Order: 768
+
+Transitivity: 1
+
+Eigenvalues: [(513, 1), (21, 10), (45, 2), (9, 2), (-255, 1), (21, 10), (45, 2), (9, 2), (-15, 90), (21, 10), (-15, 90), (21, 10), (-3, 118), (5, 126), (-15, 90), (25, 18), (-3, 118), (5, 126), (-15, 90), (25, 18), (1, 108), (1, 108), (5, 126), (5, 126), (-3, 118), (5, 126), (1, 108), (-23, 36), (-3, 118), (-15, 90), (3, 256)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: True as ['The group has an n-clique and every module not in the permutation representation contains a maximum coclique']
+
+Strict EKR Property: False as ['There is a coclique of size |G|/n that is not the stabilizer of a point or a coset of one']
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

@@ -1,0 +1,20 @@
+Transitive group number 255 of degree 12
+
+Order: 3840
+
+Transitivity: 1
+
+Eigenvalues: [(2289, 1), (1, 960), (1, 960), (1, 960), (49, 18), (49, 18), (1, 960), (129, 16), (1, 960), (-207, 25), (-1, 1560), (-1, 1560), (-209, 36), (-49, 36), (-1, 1560), (-1, 1560), (-1, 1560), (-1, 1560), (-1, 1560), (-1, 1560), (31, 288), (31, 288), (17, 450), (1, 960), (-15, 450), (1, 960), (1, 960), (1, 960), (-15, 450), (17, 450), (-1, 1560), (-1, 1560)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

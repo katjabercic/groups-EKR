@@ -1,0 +1,20 @@
+Transitive group number 154 of degree 12
+
+Order: 384
+
+Transitivity: 1
+
+Eigenvalues: [(281, 1), (41, 2), (41, 2), (-103, 1), (-31, 8), (-31, 8), (-1, 120), (-1, 120), (-1, 120), (-7, 18), (-7, 18), (9, 18), (9, 18), (-1, 120), (1, 144), (1, 144), (1, 144), (1, 144), (-1, 120), (-1, 120), (7, 36), (-9, 36)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

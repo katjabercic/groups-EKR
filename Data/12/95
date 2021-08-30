@@ -1,0 +1,20 @@
+Transitive group number 95 of degree 12
+
+Order: 192
+
+Transitivity: 1
+
+Eigenvalues: [(149, 1), (-1, 24), (-1, 24), (5, 10), (-19, 4), (-1, 24), (-1, 24), (-1, 24), (5, 10), (-11, 9), (1, 72), (1, 72), (1, 72), (1, 72), (3, 54), (3, 54), (-13, 18), (-13, 18), (3, 54), (1, 72)]
+
+EKR Property: None as []
+
+EKRM Property: None as []
+
+Strict EKR Property: False as ['Group does not have the EKR property']
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

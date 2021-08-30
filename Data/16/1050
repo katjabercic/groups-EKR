@@ -1,0 +1,20 @@
+Transitive group number 1050 of degree 16
+
+Order: 768
+
+Transitivity: 1
+
+Eigenvalues: [(545, 1), (1, 354), (65, 6), (1, 354), (-223, 1), (1, 354), (65, 6), (1, 354), (1, 354), (-31, 22), (1, 354), (65, 6), (1, 354), (1, 354), (1, 354), (-31, 22), (1, 354), (1, 354), (1, 354), (-31, 22), (1, 354), (1, 354), (1, 354), (1, 354), (1, 354), (1, 354), (1, 354), (1, 354), (-17, 64), (-1, 192), (-1, 192), (-1, 192), (7, 128), (7, 128)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

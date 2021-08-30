@@ -1,0 +1,20 @@
+Transitive group number 383 of degree 18
+
+Order: 2592
+
+Transitivity: 1
+
+Eigenvalues: [(1504, 1), (-80, 4), (-80, 4), (-80, 4), (-80, 4), (208, 2), (208, 2), (-1088, 1), (64, 24), (64, 24), (64, 24), (64, 24), (64, 24), (64, 24), (10, 512), (-26, 256), (1, 1536), (1, 1536), (1, 1536), (1, 1536), (1, 1536), (1, 1536), (-8, 256), (10, 512)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

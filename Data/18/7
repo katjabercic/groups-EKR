@@ -1,0 +1,20 @@
+Transitive group number 7 of degree 18
+
+Order: 36
+
+Transitivity: 1
+
+Eigenvalues: [(32, 1), (-4, 8), (-4, 8), (-4, 8), (-4, 8), (-4, 8), (-4, 8), (-4, 8), (-4, 8), (0, 27), (0, 27), (0, 27)]
+
+EKR Property: False as ['A coclique of size larger than |G|/n exists']
+
+EKRM Property: None as []
+
+Strict EKR Property: False as ['Group does not have the EKR property']
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

@@ -1,0 +1,20 @@
+Transitive group number 219 of degree 18
+
+Order: 648
+
+Transitivity: 1
+
+Eigenvalues: [(378, 1), (54, 10), (-108, 4), (-54, 9), (54, 10), (0, 624), (0, 624), (0, 624), (0, 624), (0, 624), (0, 624), (0, 624), (0, 624), (0, 624), (0, 624), (0, 624), (0, 624)]
+
+EKR Property: False as ['A coclique of size larger than |G|/n exists']
+
+EKRM Property: None as []
+
+Strict EKR Property: False as ['Group does not have the EKR property']
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

@@ -1,0 +1,20 @@
+Transitive group number 717 of degree 16
+
+Order: 384
+
+Transitivity: 1
+
+Eigenvalues: [(305, 1), (1, 168), (1, 168), (-79, 1), (1, 168), (1, 168), (1, 168), (1, 168), (17, 4), (17, 4), (17, 4), (17, 4), (1, 168), (1, 168), (-15, 18), (-15, 18), (-17, 32), (-17, 32), (7, 64), (7, 64), (7, 64), (7, 64), (-1, 96), (-1, 96), (-1, 96), (-1, 96), (-1, 96), (-1, 96), (1, 168), (1, 168), (1, 168), (1, 168)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

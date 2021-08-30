@@ -1,0 +1,20 @@
+Transitive group number 27 of degree 18
+
+Order: 72
+
+Transitivity: 1
+
+Eigenvalues: [(44, 1), (8, 6), (8, 6), (-28, 1), (8, 6), (8, 6), (8, 6), (8, 6), (-1, 64), (-1, 64), (-1, 64), (-1, 64)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: True as ['The group has an n-clique and every module not in the permutation representation contains a maximum coclique']
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

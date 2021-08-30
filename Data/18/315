@@ -1,0 +1,20 @@
+Transitive group number 315 of degree 18
+
+Order: 1296
+
+Transitivity: 1
+
+Eigenvalues: [(792, 1), (-36, 6), (-36, 6), (144, 1), (-36, 6), (-180, 4), (12, 18), (12, 18), (96, 9), (-120, 9), (-6, 360), (-6, 360), (6, 360), (6, 360), (0, 528), (0, 528), (0, 528), (6, 360), (6, 360), (-6, 360), (-6, 360), (0, 528)]
+
+EKR Property: False as ['A coclique of size larger than |G|/n exists']
+
+EKRM Property: None as []
+
+Strict EKR Property: False as ['Group does not have the EKR property']
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

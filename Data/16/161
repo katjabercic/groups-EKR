@@ -1,0 +1,20 @@
+Transitive group number 161 of degree 16
+
+Order: 64
+
+Transitivity: 1
+
+Eigenvalues: [(53, 1), (5, 2), (5, 2), (-11, 1), (1, 16), (1, 16), (1, 16), (1, 16), (-3, 12), (1, 16), (1, 16), (1, 16), (-3, 12), (-3, 12), (3, 8), (3, 8), (-5, 8), (-5, 8), (-1, 16)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: True
+
+Primitive: False
+

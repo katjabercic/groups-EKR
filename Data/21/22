@@ -1,0 +1,20 @@
+Transitive group number 22 of degree 21
+
+Order: 504
+
+Transitivity: 1
+
+Eigenvalues: [(384, 1), (-120, 2), (-120, 2), (-8, 162), (-8, 162), (-8, 162), (-8, 162), (-8, 162), (-8, 162), (-8, 162), (-8, 162), (-8, 162), (0, 147), (0, 147), (0, 147), (6, 192), (6, 192), (6, 192)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: False as ['There is a coclique of size |G|/n that is not the stabilizer of a point or a coset of one']
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

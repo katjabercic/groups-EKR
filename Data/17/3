@@ -1,0 +1,20 @@
+Transitive group number 3 of degree 17
+
+Order: 68
+
+Transitivity: 1
+
+Eigenvalues: [(16, 4), (16, 4), (16, 4), (16, 4), (-1, 64), (-1, 64), (-1, 64), (-1, 64)]
+
+EKR Property: True as ['Ratiobound gives EKR property', 'Group has a clique of size n']
+
+EKRM Property: True as ['The group has an n-clique and every module not in the permutation representation contains a maximum coclique']
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: True
+

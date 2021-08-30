@@ -1,0 +1,20 @@
+Transitive group number 251 of degree 20
+
+Order: 2560
+
+Transitivity: 1
+
+Eigenvalues: [(2088, 1), (40, 5), (40, 5), (40, 5), (40, 5), (40, 5), (-472, 4), (-472, 4), (-472, 4), (-472, 4), (8, 500), (8, 500), (-24, 50), (-24, 50), (8, 500), (8, 500), (-8, 400), (-8, 400), (-8, 400), (-8, 400), (8, 500), (8, 500), (8, 500), (8, 500), (0, 1600), (0, 1600), (0, 1600), (0, 1600)]
+
+EKR Property: None as []
+
+EKRM Property: None as []
+
+Strict EKR Property: False as ['Group does not have the EKR property']
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

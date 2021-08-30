@@ -1,0 +1,20 @@
+Transitive group number 85 of degree 18
+
+Order: 162
+
+Transitivity: 1
+
+Eigenvalues: [(143, 1), (-19, 5), (-19, 5), (-19, 5), (-19, 5), (-19, 5), (-1, 48), (-1, 48), (-1, 48), (2, 72), (-4, 36), (-1, 48), (2, 72)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

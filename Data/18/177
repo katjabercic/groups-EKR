@@ -1,0 +1,20 @@
+Transitive group number 177 of degree 18
+
+Order: 576
+
+Transitivity: 1
+
+Eigenvalues: [(512, 1), (-64, 8), (-64, 8), (-64, 8), (-64, 8), (-64, 8), (-64, 8), (-64, 8), (-64, 8), (0, 567), (0, 567), (0, 567), (0, 567), (0, 567), (0, 567), (0, 567)]
+
+EKR Property: False as ['A coclique of size larger than |G|/n exists']
+
+EKRM Property: None as []
+
+Strict EKR Property: False as ['Group does not have the EKR property']
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

@@ -1,0 +1,20 @@
+Transitive group number 37 of degree 14
+
+Order: 1764
+
+Transitivity: 1
+
+Eigenvalues: [(918, 1), (36, 34), (36, 34), (-846, 1), (36, 34), (36, 34), (36, 34), (36, 34), (36, 34), (36, 34), (36, 34), (36, 34), (36, 34), (36, 34), (36, 34), (36, 34), (36, 34), (36, 34), (-6, 432), (-6, 432), (-6, 432), (1, 1296), (1, 1296), (1, 1296), (1, 1296)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

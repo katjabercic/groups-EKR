@@ -1,0 +1,20 @@
+Transitive group number 221 of degree 18
+
+Order: 648
+
+Transitivity: 1
+
+Eigenvalues: [(548, 1), (8, 10), (-46, 4), (8, 10), (-28, 9), (5, 108), (-31, 36), (5, 108), (5, 108), (-1, 192), (-1, 192), (-1, 192), (2, 288), (2, 288)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

@@ -1,0 +1,20 @@
+Transitive group number 25 of degree 20
+
+Order: 100
+
+Transitivity: 1
+
+Eigenvalues: [(91, 1), (-9, 3), (-9, 3), (-9, 3), (1, 64), (1, 64), (1, 64), (1, 64), (1, 64), (1, 64), (1, 64), (1, 64), (1, 64), (1, 64), (1, 64), (1, 64), (1, 64), (1, 64), (1, 64), (1, 64), (1, 64), (1, 64), (1, 64), (1, 64), (1, 64), (1, 64), (-4, 32), (-4, 32), (-4, 32), (-4, 32), (1, 64), (1, 64), (1, 64), (1, 64), (1, 64), (1, 64), (-4, 32), (-4, 32), (-4, 32), (-4, 32)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

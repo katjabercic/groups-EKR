@@ -1,0 +1,20 @@
+Transitive group number 80 of degree 20
+
+Order: 320
+
+Transitivity: 1
+
+Eigenvalues: [(204, 1), (44, 1), (4, 152), (4, 152), (-16, 16), (12, 25), (-20, 25), (4, 152), (4, 152), (4, 152), (-4, 100)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: False as ['The group has an n-clique and a maximum coclique sits in a module outside of the permutation representation']
+
+Strict EKR Property: False as ['Group does not have the EKRM property']
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

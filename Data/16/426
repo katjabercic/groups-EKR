@@ -1,0 +1,20 @@
+Transitive group number 426 of degree 16
+
+Order: 192
+
+Transitivity: 1
+
+Eigenvalues: [(153, 1), (-39, 1), (9, 4), (9, 4), (9, 4), (9, 4), (-7, 18), (-7, 18), (3, 64), (3, 64), (3, 64), (3, 64), (-9, 32), (-9, 32), (1, 72), (1, 72)]
+
+EKR Property: None as []
+
+EKRM Property: None as []
+
+Strict EKR Property: False as ['Group does not have the EKR property']
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

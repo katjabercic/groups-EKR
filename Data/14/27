@@ -1,0 +1,20 @@
+Transitive group number 27 of degree 14
+
+Order: 896
+
+Transitivity: 1
+
+Eigenvalues: [(608, 1), (160, 1), (-64, 12), (-64, 12), (-64, 12), (0, 784), (0, 784), (0, 784), (0, 784), (0, 784), (0, 784), (32, 49), (-32, 49), (0, 784), (0, 784), (0, 784), (0, 784), (0, 784), (0, 784), (0, 784)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: False as ['The group has an n-clique and a maximum coclique sits in a module outside of the permutation representation']
+
+Strict EKR Property: False as ['Group does not have the EKRM property']
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

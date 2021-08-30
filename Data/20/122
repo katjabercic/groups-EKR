@@ -1,0 +1,20 @@
+Transitive group number 122 of degree 20
+
+Order: 480
+
+Transitivity: 1
+
+Eigenvalues: [(252, 1), (132, 1), (-60, 2), (-60, 2), (60, 2), (60, 2), (-48, 8), (-48, 8), (0, 16), (0, 16), (0, 16), (0, 16), (4, 225), (-4, 225)]
+
+EKR Property: False as ['A coclique of size larger than |G|/n exists']
+
+EKRM Property: None as []
+
+Strict EKR Property: False as ['Group does not have the EKR property']
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

@@ -1,0 +1,20 @@
+Transitive group number 26 of degree 21
+
+Order: 882
+
+Transitivity: 1
+
+Eigenvalues: [(450, 1), (198, 1), (-96, 2), (-96, 2), (156, 2), (156, 2), (-117, 4), (30, 8), (30, 8), (2, 702), (2, 702), (2, 702), (2, 702), (2, 702), (2, 702), (2, 702), (2, 702), (-12, 162), (-12, 162), (2, 702)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

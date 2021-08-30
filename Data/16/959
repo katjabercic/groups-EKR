@@ -1,0 +1,20 @@
+Transitive group number 959 of degree 16
+
+Order: 512
+
+Transitivity: 1
+
+Eigenvalues: [(369, 1), (17, 2), (33, 6), (1, 370), (-143, 1), (17, 2), (33, 6), (1, 370), (-7, 84), (25, 4), (-15, 20), (33, 6), (9, 20), (-55, 4), (1, 370), (1, 370), (1, 370), (9, 20), (-7, 84), (-15, 20), (1, 370), (1, 370), (1, 370), (1, 370), (1, 370), (-7, 84), (1, 370), (1, 370), (1, 370)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: False as ['There is a coclique of size |G|/n that is not the stabilizer of a point or a coset of one']
+
+Abelian: False
+
+Nilpotent: True
+
+Primitive: False
+

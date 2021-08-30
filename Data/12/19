@@ -1,0 +1,20 @@
+Transitive group number 19 of degree 12
+
+Order: 36
+
+Transitivity: 1
+
+Eigenvalues: [(31, 1), (-5, 3), (-5, 3), (-5, 3), (1, 16), (1, 16), (1, 16), (1, 16), (1, 16), (1, 16), (1, 16), (1, 16), (1, 16), (1, 16), (-2, 16), (-2, 16), (-2, 16), (-2, 16)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

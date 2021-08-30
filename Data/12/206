@@ -1,0 +1,20 @@
+Transitive group number 206 of degree 12
+
+Order: 1152
+
+Transitivity: 1
+
+Eigenvalues: [(555, 1), (267, 1), (-117, 2), (-117, 2), (171, 2), (171, 2), (-165, 4), (27, 8), (27, 8), (-1, 486), (-1, 486), (-1, 486), (-1, 486), (-1, 486), (-1, 486), (3, 486), (3, 486), (7, 81), (-25, 81), (-1, 486), (-1, 486), (-1, 486), (-1, 486), (3, 486)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: True as ['The group has an n-clique and every module not in the permutation representation contains a maximum coclique']
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

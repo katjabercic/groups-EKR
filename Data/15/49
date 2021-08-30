@@ -1,0 +1,20 @@
+Transitive group number 49 of degree 15
+
+Order: 3000
+
+Transitivity: 1
+
+Eigenvalues: [(1364, 1), (-236, 3), (364, 3), (764, 1), (-236, 3), (-236, 3), (364, 3), (364, 3), (64, 12), (-436, 4), (64, 12), (64, 12), (-1, 1536), (-1, 1536), (-1, 1536), (-1, 1536), (-1, 1536), (4, 1152), (4, 1152), (9, 144), (-41, 144), (4, 1152), (4, 1152), (-1, 1536), (-1, 1536), (-1, 1536), (-1, 1536), (4, 1152), (-1, 1536)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

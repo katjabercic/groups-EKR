@@ -1,0 +1,20 @@
+Transitive group number 252 of degree 12
+
+Order: 3456
+
+Transitivity: 1
+
+Eigenvalues: [(1611, 1), (747, 1), (-549, 4), (27, 12), (27, 12), (27, 12), (-117, 18), (-117, 18), (171, 18), (171, 18), (-1, 1458), (-1, 1458), (-1, 1458), (-1, 1458), (-1, 1458), (-1, 1458), (-57, 81), (39, 81), (-1, 1458), (-1, 1458), (-1, 1458), (-9, 324), (3, 1458), (3, 1458)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: True as ['The group has an n-clique and every module not in the permutation representation contains a maximum coclique']
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

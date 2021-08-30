@@ -1,0 +1,20 @@
+Transitive group number 436 of degree 18
+
+Order: 3456
+
+Transitivity: 1
+
+Eigenvalues: [(2576, 1), (-16, 1), (128, 12), (-448, 4), (128, 12), (128, 12), (80, 18), (80, 18), (-208, 18), (-208, 18), (0, 3240), (0, 3240), (0, 3240), (0, 3240), (48, 81), (-48, 81), (0, 3240), (0, 3240), (0, 3240), (0, 3240), (0, 3240), (0, 3240), (0, 3240), (0, 3240)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: False as ['The group has an n-clique and a maximum coclique sits in a module outside of the permutation representation']
+
+Strict EKR Property: False as ['Group does not have the EKRM property']
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

@@ -1,0 +1,20 @@
+Transitive group number 144 of degree 12
+
+Order: 384
+
+Transitivity: 1
+
+Eigenvalues: [(281, 1), (-103, 2), (-103, 2), (-7, 27), (9, 18), (9, 18), (-7, 27), (-7, 27), (-1, 120), (-1, 120), (-1, 120), (-1, 120), (-1, 120), (7, 36), (-9, 36), (1, 144)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

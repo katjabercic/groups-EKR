@@ -1,0 +1,20 @@
+Transitive group number 491 of degree 16
+
+Order: 256
+
+Transitivity: 1
+
+Eigenvalues: [(209, 1), (1, 112), (1, 112), (1, 112), (1, 112), (17, 4), (17, 4), (-47, 3), (1, 112), (1, 112), (1, 112), (1, 112), (17, 4), (17, 4), (-47, 3), (-47, 3), (-15, 8), (1, 112), (-15, 8), (1, 112), (1, 112), (1, 112), (1, 112), (1, 112), (1, 112), (1, 112), (1, 112), (1, 112), (1, 112), (1, 112), (1, 112), (1, 112), (-1, 128), (-1, 128)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: False as ['The group has an n-clique and a maximum coclique sits in a module outside of the permutation representation']
+
+Strict EKR Property: False as ['Group does not have the EKRM property']
+
+Abelian: False
+
+Nilpotent: True
+
+Primitive: False
+

@@ -1,0 +1,20 @@
+Transitive group number 12 of degree 21
+
+Order: 147
+
+Transitivity: 1
+
+Eigenvalues: [(128, 1), (-19, 2), (-19, 2), (2, 90), (2, 90), (2, 90), (2, 90), (-5, 54), (-5, 54), (-5, 54), (-5, 54), (-5, 54), (-5, 54), (2, 90), (2, 90), (2, 90), (2, 90), (2, 90), (2, 90)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

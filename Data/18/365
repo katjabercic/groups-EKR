@@ -1,0 +1,20 @@
+Transitive group number 365 of degree 18
+
+Order: 2160
+
+Transitivity: 1
+
+Eigenvalues: [(1175, 1), (365, 1), (41, 25), (23, 125), (-13, 25), (-139, 25), (-10, 72), (-10, 72), (-5, 81), (25, 81), (-31, 100), (23, 125), (-40, 144), (5, 256), (10, 324), (2, 900)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

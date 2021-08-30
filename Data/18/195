@@ -1,0 +1,20 @@
+Transitive group number 195 of degree 18
+
+Order: 648
+
+Transitivity: 1
+
+Eigenvalues: [(460, 1), (64, 4), (64, 4), (-188, 1), (64, 4), (64, 4), (-8, 98), (-8, 98), (10, 64), (10, 64), (10, 64), (10, 64), (-8, 98), (-8, 98), (-8, 98), (-8, 98), (-8, 98), (10, 64), (10, 64), (-26, 32), (10, 64), (-26, 32), (1, 448), (1, 448), (1, 448), (1, 448), (-8, 98), (1, 448), (1, 448), (1, 448)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

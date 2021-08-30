@@ -1,0 +1,20 @@
+Transitive group number 1073 of degree 16
+
+Order: 768
+
+Transitivity: 1
+
+Eigenvalues: [(345, 1), (-135, 1), (105, 4), (-3, 24), (-3, 24), (25, 9), (-71, 9), (-15, 18), (-15, 18), (17, 18), (17, 18), (-3, 24), (1, 324), (5, 216), (5, 216), (1, 324), (1, 324), (5, 216), (-11, 144)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: True as ['The group has an n-clique and every module not in the permutation representation contains a maximum coclique']
+
+Strict EKR Property: False as ['There is a coclique of size |G|/n that is not the stabilizer of a point or a coset of one']
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

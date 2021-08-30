@@ -1,0 +1,20 @@
+Transitive group number 41 of degree 20
+
+Order: 160
+
+Transitivity: 1
+
+Eigenvalues: [(139, 1), (-1, 80), (-1, 80), (-1, 80), (-1, 80), (-1, 80), (-21, 4), (-21, 4), (-21, 4), (-21, 4), (-1, 80), (-5, 25), (-1, 80), (3, 50), (3, 50), (-1, 80)]
+
+EKR Property: True as ['A weighting on derangement classes gives EKR']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

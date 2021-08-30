@@ -1,0 +1,20 @@
+Transitive group number 291 of degree 20
+
+Order: 3840
+
+Transitivity: 1
+
+Eigenvalues: [(2489, 1), (-71, 1), (-191, 16), (-31, 16), (89, 61), (-167, 25), (89, 61), (-1, 1120), (-1, 1120), (-1, 1120), (-1, 1120), (-41, 100), (-25, 100), (23, 100), (-89, 100), (9, 900), (9, 900), (9, 900), (9, 900), (31, 400), (-1, 1120), (-1, 1120), (-7, 900)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

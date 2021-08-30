@@ -1,0 +1,20 @@
+Transitive group number 164 of degree 12
+
+Order: 576
+
+Transitivity: 1
+
+Eigenvalues: [(411, 1), (-165, 2), (-165, 2), (27, 6), (27, 6), (27, 6), (27, 6), (27, 6), (27, 6), (-1, 243), (-1, 243), (-1, 243), (-1, 243), (-1, 243), (-1, 243), (-1, 243), (-1, 243), (-1, 243), (3, 243), (3, 243), (3, 243), (-9, 81), (-1, 243), (-1, 243)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: True as ['The group has an n-clique and every module not in the permutation representation contains a maximum coclique']
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

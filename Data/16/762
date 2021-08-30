@@ -1,0 +1,20 @@
+Transitive group number 762 of degree 16
+
+Order: 384
+
+Transitivity: 1
+
+Eigenvalues: [(297, 1), (9, 28), (9, 28), (-87, 1), (9, 28), (9, 28), (1, 144), (1, 144), (1, 144), (1, 144), (9, 28), (9, 28), (-23, 18), (-23, 18), (1, 144), (1, 144), (1, 144), (1, 144), (1, 144), (1, 144), (-9, 64), (3, 128), (3, 128)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

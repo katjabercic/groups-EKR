@@ -1,0 +1,20 @@
+Transitive group number 37 of degree 10
+
+Order: 1920
+
+Transitivity: 1
+
+Eigenvalues: [(1164, 1), (4, 126), (-6, 416), (-146, 16), (-12, 25), (28, 25), (-116, 25), (4, 126), (24, 36), (4, 126), (0, 100), (12, 100), (16, 100), (-8, 100), (-4, 225), (20, 225), (-2, 400), (-6, 416)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

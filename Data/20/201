@@ -1,0 +1,20 @@
+Transitive group number 201 of degree 20
+
+Order: 1440
+
+Transitivity: 1
+
+Eigenvalues: [(954, 1), (54, 2), (54, 2), (-486, 1), (-26, 162), (-26, 162), (-6, 162), (-6, 162), (18, 100), (-18, 100), (9, 512), (9, 512), (0, 400)]
+
+EKR Property: None as []
+
+EKRM Property: None as []
+
+Strict EKR Property: False as ['Group does not have the EKR property']
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

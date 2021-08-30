@@ -1,0 +1,20 @@
+Transitive group number 28 of degree 15
+
+Order: 720
+
+Transitivity: 1
+
+Eigenvalues: [(304, 1), (64, 1), (16, 175), (-32, 25), (16, 175), (16, 175), (-16, 162), (-16, 162), (-8, 100), (16, 175), (4, 256)]
+
+EKR Property: True as ['A weighting on derangement classes gives EKR']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: True
+

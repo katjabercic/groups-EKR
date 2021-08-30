@@ -1,0 +1,20 @@
+Transitive group number 931 of degree 16
+
+Order: 512
+
+Transitivity: 1
+
+Eigenvalues: [(345, 1), (1, 160), (1, 160), (1, 160), (1, 160), (1, 160), (1, 160), (1, 160), (1, 160), (9, 8), (9, 8), (89, 2), (89, 2), (9, 8), (9, 8), (-167, 1), (1, 160), (1, 160), (9, 8), (-39, 4), (5, 32), (-3, 32), (5, 32), (-3, 32), (5, 32), (-3, 32), (5, 32), (-3, 32), (1, 160), (-15, 16), (5, 32), (-3, 32), (1, 160), (1, 160), (1, 160), (1, 160), (1, 160), (-1, 128), (-1, 128), (-5, 64), (3, 64)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: False as ['There is a coclique of size |G|/n that is not the stabilizer of a point or a coset of one']
+
+Abelian: False
+
+Nilpotent: True
+
+Primitive: False
+

@@ -1,0 +1,20 @@
+Transitive group number 239 of degree 20
+
+Order: 2560
+
+Transitivity: 1
+
+Eigenvalues: [(2049, 1), (-511, 4), (-511, 4), (-511, 4), (-511, 4), (-1, 1280), (-1, 1280), (-1, 1280), (-1, 1280), (-1, 1280), (1, 1275), (1, 1275), (1, 1275), (-1, 1280), (-1, 1280), (-1, 1280), (-1, 1280), (1, 1275), (1, 1275), (1, 1275), (1, 1275), (-1, 1280), (-1, 1280), (-1, 1280), (-1, 1280), (-1, 1280), (1, 1275), (1, 1275)]
+
+EKR Property: None as []
+
+EKRM Property: None as []
+
+Strict EKR Property: False as ['Group does not have the EKR property']
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

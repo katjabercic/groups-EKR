@@ -1,0 +1,20 @@
+Transitive group number 13 of degree 9
+
+Order: 54
+
+Transitivity: 1
+
+Eigenvalues: [(38, 1), (2, 15), (2, 15), (2, 15), (-16, 2), (-16, 2), (2, 15), (2, 15), (2, 15), (-1, 36)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: True as ['The group has an n-clique and every module not in the permutation representation contains a maximum coclique']
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

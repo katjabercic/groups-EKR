@@ -1,0 +1,20 @@
+Transitive group number 319 of degree 18
+
+Order: 1296
+
+Transitivity: 1
+
+Eigenvalues: [(1088, 1), (8, 42), (-208, 5), (8, 42), (8, 42), (-208, 5), (8, 42), (8, 42), (8, 42), (8, 42), (-4, 288), (-4, 288), (-4, 288), (-4, 288), (-1, 384), (-1, 384), (-4, 288), (2, 576), (2, 576), (2, 576), (2, 576), (-1, 384)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

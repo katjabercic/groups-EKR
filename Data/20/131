@@ -1,0 +1,20 @@
+Transitive group number 131 of degree 20
+
+Order: 640
+
+Transitivity: 1
+
+Eigenvalues: [(504, 1), (24, 6), (-136, 1), (24, 6), (24, 6), (24, 6), (24, 6), (24, 6), (-16, 32), (-16, 32), (8, 150), (-24, 50), (8, 150), (-24, 50), (8, 150), (8, 150), (8, 150), (8, 150), (0, 400), (0, 400), (0, 400), (0, 400)]
+
+EKR Property: None as []
+
+EKRM Property: None as []
+
+Strict EKR Property: False as ['Group does not have the EKR property']
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

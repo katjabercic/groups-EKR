@@ -1,0 +1,20 @@
+Transitive group number 136 of degree 20
+
+Order: 640
+
+Transitivity: 1
+
+Eigenvalues: [(429, 1), (9, 10), (109, 1), (9, 10), (-1, 120), (9, 10), (9, 10), (-51, 8), (-51, 8), (-1, 120), (-1, 120), (-1, 120), (-1, 120), (1, 150), (29, 25), (1, 150), (-35, 25), (1, 150), (5, 50), (1, 150), (5, 50), (-3, 50), (1, 150), (-3, 50), (1, 150), (3, 100), (-5, 100), (-1, 120)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: False as ['There is a coclique of size |G|/n that is not the stabilizer of a point or a coset of one']
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

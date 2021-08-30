@@ -1,0 +1,20 @@
+Transitive group number 107 of degree 20
+
+Order: 400
+
+Transitivity: 1
+
+Eigenvalues: [(308, 1), (-92, 3), (-92, 3), (-92, 3), (8, 12), (8, 12), (8, 12), (8, 12), (8, 12), (8, 12), (3, 128), (3, 128), (-2, 256)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

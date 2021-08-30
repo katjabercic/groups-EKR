@@ -1,0 +1,20 @@
+Transitive group number 367 of degree 18
+
+Order: 2304
+
+Transitivity: 1
+
+Eigenvalues: [(1841, 1), (-1, 936), (-1, 936), (209, 3), (-1, 936), (-1, 936), (-1, 936), (-1, 936), (209, 3), (209, 3), (-463, 2), (-463, 2), (-127, 12), (-1, 936), (-127, 12), (-127, 12), (-1, 936), (-1, 936), (1, 972), (1, 972), (15, 108), (-17, 108), (1, 972), (1, 972), (1, 972), (1, 972), (15, 108), (15, 108), (-17, 108), (-17, 108), (1, 972), (-1, 936), (1, 972), (1, 972), (-1, 936), (-1, 936), (-1, 936), (-1, 936), (17, 81), (-15, 81), (1, 972), (1, 972), (-17, 108), (15, 108), (1, 972), (-1, 936), (1, 972), (-1, 936)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: False as ['The group has an n-clique and a maximum coclique sits in a module outside of the permutation representation']
+
+Strict EKR Property: False as ['Group does not have the EKRM property']
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

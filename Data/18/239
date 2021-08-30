@@ -1,0 +1,20 @@
+Transitive group number 239 of degree 18
+
+Order: 972
+
+Transitivity: 1
+
+Eigenvalues: [(730, 1), (28, 10), (-242, 1), (28, 10), (-8, 184), (-8, 184), (46, 8), (46, 8), (-8, 184), (-8, 184), (46, 8), (46, 8), (28, 10), (28, 10), (-8, 184), (46, 8), (-8, 184), (-8, 184), (-8, 184), (-8, 184), (10, 40), (10, 40), (-98, 8), (-98, 8), (-8, 184), (10, 40), (10, 40), (1, 720), (1, 720), (1, 720), (1, 720), (1, 720), (1, 720), (1, 720), (1, 720), (1, 720), (-8, 184), (1, 720), (1, 720)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

@@ -1,0 +1,20 @@
+Transitive group number 122 of degree 12
+
+Order: 216
+
+Transitivity: 1
+
+Eigenvalues: [(102, 1), (30, 2), (30, 2), (-24, 4), (12, 8), (12, 8), (-18, 9), (-6, 64), (3, 128), (3, 128)]
+
+EKR Property: None as []
+
+EKRM Property: None as []
+
+Strict EKR Property: False as ['Group does not have the EKR property']
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

@@ -1,0 +1,20 @@
+Transitive group number 21 of degree 21
+
+Order: 441
+
+Transitivity: 1
+
+Eigenvalues: [(324, 1), (-117, 2), (-117, 2), (30, 6), (30, 6), (30, 6), (30, 6), (30, 6), (30, 6), (2, 270), (2, 270), (2, 270), (2, 270), (2, 270), (2, 270), (2, 270), (2, 270), (2, 270), (2, 270), (2, 270), (2, 270), (-5, 162), (-5, 162), (2, 270), (2, 270)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: True as ['The group has an n-clique and every module not in the permutation representation contains a maximum coclique']
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

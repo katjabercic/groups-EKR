@@ -1,0 +1,20 @@
+Transitive group number 956 of degree 16
+
+Order: 512
+
+Transitivity: 1
+
+Eigenvalues: [(373, 1), (53, 2), (37, 2), (-27, 2), (-139, 1), (53, 2), (37, 2), (-27, 2), (5, 56), (5, 56), (13, 8), (-3, 36), (5, 56), (5, 56), (-3, 36), (-3, 36), (13, 8), (-51, 4), (-3, 36), (-3, 36), (5, 56), (5, 56), (5, 56), (-3, 36), (5, 56), (-19, 16), (1, 320), (1, 320), (1, 320), (1, 320), (1, 320), (1, 320), (1, 320), (1, 320), (1, 320), (1, 320), (1, 320), (-7, 64)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: True as ['The group has an n-clique and every module not in the permutation representation contains a maximum coclique']
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: True
+
+Primitive: False
+

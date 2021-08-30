@@ -1,0 +1,20 @@
+Transitive group number 699 of degree 16
+
+Order: 256
+
+Transitivity: 1
+
+Eigenvalues: [(185, 1), (25, 2), (25, 2), (-71, 1), (-15, 2), (-15, 2), (17, 2), (17, 2), (1, 116), (-23, 4), (-3, 72), (-3, 72), (5, 40), (5, 40), (1, 116), (1, 116), (1, 116), (1, 116), (1, 116), (1, 116), (5, 40), (-11, 16), (5, 40), (1, 116), (-3, 72)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: False as ['There is a coclique of size |G|/n that is not the stabilizer of a point or a coset of one']
+
+Abelian: False
+
+Nilpotent: True
+
+Primitive: False
+

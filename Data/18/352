@@ -1,0 +1,20 @@
+Transitive group number 352 of degree 18
+
+Order: 1944
+
+Transitivity: 1
+
+Eigenvalues: [(1336, 1), (-68, 2), (-608, 1), (-68, 2), (148, 4), (13, 48), (-95, 16), (13, 48), (13, 48), (4, 144), (4, 144), (4, 144), (4, 144), (-11, 144), (7, 288), (-2, 144), (16, 144), (7, 288), (-29, 144), (1, 864), (1, 864), (1, 864), (1, 864), (1, 864), (1, 864)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: True as ['The group has an n-clique and every module not in the permutation representation contains a maximum coclique']
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

@@ -1,0 +1,20 @@
+Transitive group number 468 of degree 18
+
+Order: 4896
+
+Transitivity: 3
+
+Eigenvalues: [(2312, 1), (-136, 290), (17, 2048), (17, 2048), (17, 2048), (17, 2048), (17, 2048), (17, 2048), (17, 2048), (17, 2048), (-136, 290), (8, 289), (0, 2268), (0, 2268), (0, 2268), (0, 2268), (0, 2268), (0, 2268), (0, 2268)]
+
+EKR Property: True as ['Ratiobound gives EKR property', 'Group has a clique of size n']
+
+EKRM Property: True as ['The group has an n-clique and every module not in the permutation representation contains a maximum coclique', 'Group has the strict EKR property']
+
+Strict EKR Property: True as ['Group is two transitive and gets strict EKR from the module method']
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: True
+

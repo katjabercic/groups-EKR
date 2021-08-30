@@ -1,0 +1,20 @@
+Transitive group number 33 of degree 12
+
+Order: 60
+
+Transitivity: 1
+
+Eigenvalues: [(35, 1), (-5, 18), (-5, 18), (5, 16), (-1, 25)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: True as ['The group has an n-clique and every module not in the permutation representation contains a maximum coclique']
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

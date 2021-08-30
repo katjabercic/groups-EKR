@@ -1,0 +1,20 @@
+Transitive group number 239 of degree 12
+
+Order: 2304
+
+Transitivity: 1
+
+Eigenvalues: [(1251, 1), (147, 1), (-141, 1), (387, 1), (171, 4), (-117, 4), (-333, 4), (3, 652), (7, 54), (7, 54), (-9, 54), (-9, 54), (27, 16), (7, 54), (-9, 54), (-1, 864), (-1, 864), (-5, 162), (-5, 162), (11, 162), (11, 162), (-17, 81), (15, 81), (31, 81), (-65, 81), (-1, 864), (3, 652), (3, 652), (-1, 864), (-1, 864)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: True as ['The group has an n-clique and every module not in the permutation representation contains a maximum coclique']
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

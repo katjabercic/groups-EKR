@@ -1,0 +1,20 @@
+Transitive group number 200 of degree 20
+
+Order: 1440
+
+Transitivity: 1
+
+Eigenvalues: [(864, 1), (144, 1), (-36, 102), (-36, 102), (9, 512), (9, 512), (9, 512), (9, 512), (9, 512), (9, 512), (9, 512), (9, 512), (-56, 81), (24, 81), (4, 162), (4, 162), (0, 500), (-36, 102), (0, 500), (0, 500), (0, 500), (0, 500)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: False as ['There is a coclique of size |G|/n that is not the stabilizer of a point or a coset of one']
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

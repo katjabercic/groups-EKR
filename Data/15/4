@@ -1,0 +1,20 @@
+Transitive group number 4 of degree 15
+
+Order: 30
+
+Transitivity: 1
+
+Eigenvalues: [(26, 1), (2, 5), (2, 5), (2, 5), (2, 5), (2, 5), (-4, 4), (-4, 4), (-4, 4), (-4, 4), (-1, 20), (-1, 20), (-1, 20), (-1, 20), (-1, 20)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

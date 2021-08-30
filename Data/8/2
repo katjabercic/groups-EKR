@@ -1,0 +1,20 @@
+Transitive group number 2 of degree 8
+
+Order: 8
+
+Transitivity: 1
+
+Eigenvalues: [(7, 1), (-1, 7), (-1, 7), (-1, 7), (-1, 7), (-1, 7), (-1, 7), (-1, 7)]
+
+EKR Property: True as ['Ratiobound gives EKR property', 'Group has a clique of size n']
+
+EKRM Property: True as ['The group has an n-clique and every module not in the permutation representation contains a maximum coclique']
+
+Strict EKR Property: None as []
+
+Abelian: True
+
+Nilpotent: True
+
+Primitive: False
+

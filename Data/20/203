@@ -1,0 +1,20 @@
+Transitive group number 203 of degree 20
+
+Order: 1440
+
+Transitivity: 1
+
+Eigenvalues: [(900, 1), (-108, 10), (108, 4), (-108, 10), (36, 9), (12, 180), (12, 180), (60, 18), (60, 18), (-18, 160), (-90, 16), (0, 600), (0, 600), (-12, 72), (-12, 72), (18, 64), (12, 180), (12, 180), (-4, 162), (-4, 162), (0, 600), (-18, 160), (6, 144), (0, 600), (0, 600)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

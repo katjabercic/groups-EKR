@@ -1,0 +1,20 @@
+Transitive group number 95 of degree 18
+
+Order: 216
+
+Transitivity: 1
+
+Eigenvalues: [(160, 1), (28, 2), (28, 2), (-56, 1), (-8, 18), (-8, 18), (16, 2), (16, 2), (-14, 8), (-14, 8), (4, 40), (4, 40), (-2, 80), (4, 40), (4, 40), (-8, 18), (-2, 80), (1, 64)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

@@ -1,0 +1,20 @@
+Transitive group number 1027 of degree 16
+
+Order: 576
+
+Transitivity: 1
+
+Eigenvalues: [(441, 1), (-135, 3), (-135, 3), (-135, 3), (9, 32), (9, 32), (9, 32), (9, 32), (9, 32), (9, 32), (9, 32), (9, 32), (9, 32), (9, 32), (9, 32), (9, 32), (9, 32), (9, 32), (-3, 216), (-3, 216), (-3, 216), (-3, 216), (-3, 216), (-3, 216), (1, 324), (1, 324), (1, 324), (1, 324)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

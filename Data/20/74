@@ -1,0 +1,20 @@
+Transitive group number 74 of degree 20
+
+Order: 320
+
+Transitivity: 1
+
+Eigenvalues: [(269, 1), (-1, 60), (-1, 60), (9, 5), (-1, 60), (-1, 60), (-1, 60), (-1, 60), (-1, 60), (-1, 60), (-1, 60), (-1, 60), (9, 5), (9, 5), (9, 5), (9, 5), (-51, 4), (-51, 4), (-51, 4), (-51, 4), (3, 50), (3, 50), (1, 75), (-3, 50), (-3, 50), (1, 75), (-1, 60), (-1, 60), (1, 75), (5, 25), (-5, 50), (-5, 50)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: False as ['There is a coclique of size |G|/n that is not the stabilizer of a point or a coset of one']
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

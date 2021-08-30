@@ -1,0 +1,20 @@
+Transitive group number 147 of degree 20
+
+Order: 720
+
+Transitivity: 1
+
+Eigenvalues: [(396, 1), (108, 2), (108, 2), (-36, 9), (36, 18), (36, 18), (-12, 36), (-12, 36), (-12, 36), (-12, 36), (-54, 16), (18, 32), (18, 32), (0, 300), (0, 300), (0, 300), (4, 162), (4, 162), (-6, 144), (0, 300)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

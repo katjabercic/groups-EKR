@@ -1,0 +1,20 @@
+Transitive group number 31 of degree 20
+
+Order: 120
+
+Transitivity: 1
+
+Eigenvalues: [(84, 1), (-36, 1), (4, 36), (4, 36), (4, 36), (4, 36), (-6, 32), (-6, 32), (0, 50), (0, 50)]
+
+EKR Property: False as ['A coclique of size larger than |G|/n exists']
+
+EKRM Property: None as []
+
+Strict EKR Property: False as ['Group does not have the EKR property']
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

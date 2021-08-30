@@ -1,0 +1,20 @@
+Transitive group number 332 of degree 16
+
+Order: 128
+
+Transitivity: 1
+
+Eigenvalues: [(101, 1), (5, 18), (5, 18), (5, 18), (5, 18), (5, 18), (5, 18), (-27, 1), (5, 18), (-11, 12), (1, 32), (1, 32), (5, 18), (5, 18), (-11, 12), (-11, 12), (1, 32), (1, 32), (1, 32), (1, 32), (1, 32), (1, 32), (-1, 64)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: True
+
+Primitive: False
+

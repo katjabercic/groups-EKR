@@ -1,0 +1,20 @@
+Transitive group number 46 of degree 12
+
+Order: 72
+
+Transitivity: 1
+
+Eigenvalues: [(54, 1), (-18, 3), (0, 68), (0, 68), (0, 68), (0, 68), (-18, 3), (-18, 3), (0, 68)]
+
+EKR Property: False as ['A coclique of size larger than |G|/n exists']
+
+EKRM Property: None as []
+
+Strict EKR Property: False as ['Group does not have the EKR property']
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

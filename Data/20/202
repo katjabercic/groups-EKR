@@ -1,0 +1,20 @@
+Transitive group number 202 of degree 20
+
+Order: 1440
+
+Transitivity: 1
+
+Eigenvalues: [(1044, 1), (-396, 1), (-36, 164), (-36, 164), (-36, 164), (4, 162), (4, 162), (-36, 164), (0, 600), (0, 600), (0, 600), (0, 600), (0, 600), (0, 600), (9, 512), (9, 512)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

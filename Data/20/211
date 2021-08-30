@@ -1,0 +1,20 @@
+Transitive group number 211 of degree 20
+
+Order: 1600
+
+Transitivity: 1
+
+Eigenvalues: [(1216, 1), (16, 60), (-384, 3), (16, 60), (16, 60), (16, 60), (16, 60), (16, 60), (16, 60), (16, 60), (-384, 3), (-384, 3), (16, 60), (16, 60), (16, 60), (16, 60), (16, 60), (16, 60), (16, 60), (16, 60), (16, 60), (16, 60), (16, 60), (16, 60), (16, 60), (16, 60), (16, 60), (16, 60), (-4, 512), (-4, 512), (-4, 512), (-4, 512), (-4, 512), (-4, 512), (-4, 512), (-4, 512), (1, 1024), (1, 1024), (1, 1024), (1, 1024)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

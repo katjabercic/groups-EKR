@@ -1,0 +1,20 @@
+Transitive group number 1075 of degree 16
+
+Order: 896
+
+Transitivity: 1
+
+Eigenvalues: [(497, 1), (-399, 1), (49, 12), (49, 12), (49, 12), (49, 12), (49, 12), (49, 12), (49, 12), (49, 12), (49, 12), (49, 12), (49, 12), (49, 12), (1, 686), (1, 686), (1, 686), (1, 686), (1, 686), (-7, 196)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

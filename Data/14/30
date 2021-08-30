@@ -1,0 +1,20 @@
+Transitive group number 30 of degree 14
+
+Order: 1092
+
+Transitivity: 2
+
+Eigenvalues: [(468, 1), (0, 490), (0, 490), (13, 432), (13, 432), (13, 432), (-36, 169), (0, 490), (0, 490)]
+
+EKR Property: True as ['Ratiobound gives EKR property', 'Group has a clique of size n']
+
+EKRM Property: True as ['Group has the strict EKR property']
+
+Strict EKR Property: True as ['Group is two transitive and gets strict EKR from the module method']
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: True
+

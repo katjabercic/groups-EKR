@@ -1,0 +1,20 @@
+Transitive group number 17 of degree 14
+
+Order: 336
+
+Transitivity: 1
+
+Eigenvalues: [(195, 1), (-15, 86), (-1, 54), (-1, 54), (13, 18), (13, 18), (-15, 86), (-1, 54), (3, 49), (-15, 86), (6, 128), (6, 128)]
+
+EKR Property: True as ['Ratiobound gives EKR property', 'Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: False as ['There is a coclique of size |G|/n that is not the stabilizer of a point or a coset of one']
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

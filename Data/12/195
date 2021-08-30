@@ -1,0 +1,20 @@
+Transitive group number 195 of degree 12
+
+Order: 1152
+
+Transitivity: 1
+
+Eigenvalues: [(793, 1), (-17, 4), (-17, 4), (-17, 4), (-17, 4), (73, 2), (73, 2), (-359, 1), (25, 16), (25, 16), (7, 16), (7, 16), (7, 16), (7, 16), (25, 16), (25, 16), (-59, 16), (-5, 16), (9, 234), (9, 234), (15, 36), (-33, 36), (-1, 324), (-1, 324), (-1, 324), (-1, 324), (-7, 162), (-7, 162), (9, 234), (9, 234), (-3, 144), (3, 144)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

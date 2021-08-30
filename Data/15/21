@@ -1,0 +1,20 @@
+Transitive group number 21 of degree 15
+
+Order: 360
+
+Transitivity: 1
+
+Eigenvalues: [(184, 1), (64, 1), (4, 192), (4, 192), (-26, 16), (-8, 125), (16, 25), (4, 192), (4, 192), (4, 192), (4, 192), (-8, 125)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: False as ['There is a coclique of size |G|/n that is not the stabilizer of a point or a coset of one']
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

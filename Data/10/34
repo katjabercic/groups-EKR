@@ -1,0 +1,20 @@
+Transitive group number 34 of degree 10
+
+Order: 960
+
+Transitivity: 1
+
+Eigenvalues: [(584, 1), (24, 18), (24, 18), (-76, 16), (8, 450), (-56, 25), (-8, 50), (-8, 50), (8, 450), (8, 450), (8, 450), (-4, 400)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

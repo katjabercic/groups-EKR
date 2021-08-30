@@ -1,0 +1,20 @@
+Transitive group number 712 of degree 16
+
+Order: 336
+
+Transitivity: 1
+
+Eigenvalues: [(231, 1), (-105, 1), (-21, 4), (-21, 4), (-21, 4), (-21, 4), (7, 36), (7, 36), (7, 36), (7, 36), (-9, 98), (-9, 98), (3, 196), (3, 196), (3, 196), (3, 196)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

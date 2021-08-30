@@ -1,0 +1,20 @@
+Transitive group number 61 of degree 12
+
+Order: 96
+
+Transitivity: 1
+
+Eigenvalues: [(70, 1), (6, 3), (6, 3), (6, 3), (-26, 2), (-26, 2), (-2, 54), (-2, 54), (2, 36), (-2, 54)]
+
+EKR Property: None as []
+
+EKRM Property: None as []
+
+Strict EKR Property: False as ['Group does not have the EKR property']
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

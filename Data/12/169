@@ -1,0 +1,20 @@
+Transitive group number 169 of degree 12
+
+Order: 648
+
+Transitivity: 1
+
+Eigenvalues: [(421, 1), (97, 2), (-227, 1), (97, 2), (-65, 4), (1, 128), (1, 128), (1, 128), (1, 128), (1, 128), (1, 128), (1, 128), (1, 128), (1, 128), (1, 128), (4, 192), (4, 192), (4, 192), (4, 192), (4, 192), (4, 192), (4, 192), (4, 192), (-2, 256), (-2, 256), (4, 192), (1, 128), (-8, 64), (-2, 256), (-2, 256)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

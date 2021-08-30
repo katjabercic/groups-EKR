@@ -1,0 +1,20 @@
+Transitive group number 269 of degree 18
+
+Order: 1152
+
+Transitivity: 1
+
+Eigenvalues: [(920, 1), (104, 3), (104, 3), (104, 3), (-232, 2), (-232, 2), (-64, 12), (-64, 12), (-64, 12), (8, 189), (-8, 189), (8, 189), (8, 189), (-8, 189), (-8, 189), (0, 756), (0, 756), (0, 756), (8, 189), (-8, 189), (-8, 189), (8, 189), (0, 756), (0, 756)]
+
+EKR Property: None as []
+
+EKRM Property: None as []
+
+Strict EKR Property: False as ['Group does not have the EKR property']
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

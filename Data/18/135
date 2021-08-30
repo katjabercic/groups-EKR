@@ -1,0 +1,20 @@
+Transitive group number 135 of degree 18
+
+Order: 324
+
+Transitivity: 1
+
+Eigenvalues: [(256, 1), (22, 2), (22, 2), (-68, 1), (4, 132), (4, 132), (4, 132), (4, 132), (10, 4), (-8, 76), (4, 132), (4, 132), (-23, 8), (-23, 8), (-2, 36), (-2, 36), (-2, 36), (-2, 36), (4, 132), (4, 132), (4, 132), (4, 132), (1, 64), (1, 64), (1, 64), (1, 64), (-8, 76), (-8, 76), (4, 132), (4, 132)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

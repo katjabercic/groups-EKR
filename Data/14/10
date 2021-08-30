@@ -1,0 +1,20 @@
+Transitive group number 10 of degree 14
+
+Order: 168
+
+Transitivity: 1
+
+Eigenvalues: [(90, 1), (6, 82), (6, 82), (-8, 36), (-6, 49), (6, 82)]
+
+EKR Property: True as ['A weighting on derangement classes gives EKR']
+
+EKRM Property: None as []
+
+Strict EKR Property: False as ['There is a coclique of size |G|/n that is not the stabilizer of a point or a coset of one']
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

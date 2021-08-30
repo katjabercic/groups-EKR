@@ -1,0 +1,20 @@
+Transitive group number 215 of degree 18
+
+Order: 648
+
+Transitivity: 1
+
+Eigenvalues: [(400, 1), (76, 2), (76, 2), (-248, 1), (4, 220), (10, 8), (10, 8), (-8, 152), (-8, 152), (13, 32), (13, 32), (-14, 32), (-14, 32), (1, 128), (1, 128), (1, 128), (1, 128), (-2, 72), (-2, 72), (4, 220), (4, 220), (1, 128), (4, 220), (-8, 152)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: False as ['There is a coclique of size |G|/n that is not the stabilizer of a point or a coset of one']
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

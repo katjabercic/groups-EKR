@@ -1,0 +1,20 @@
+Transitive group number 257 of degree 18
+
+Order: 972
+
+Transitivity: 1
+
+Eigenvalues: [(658, 1), (172, 2), (172, 2), (-314, 1), (-71, 8), (-71, 8), (1, 384), (1, 384), (7, 24), (7, 24), (1, 384), (1, 384), (1, 384), (1, 384), (4, 144), (4, 144), (4, 144), (4, 144), (4, 144), (4, 144), (4, 144), (4, 144), (7, 24), (-2, 264), (-2, 264), (-2, 264), (1, 384), (1, 384), (4, 144), (4, 144), (-2, 264), (-2, 264), (1, 384), (1, 384), (1, 384), (1, 384), (1, 384), (-5, 144), (-2, 264)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: True as ['The group has an n-clique and every module not in the permutation representation contains a maximum coclique']
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

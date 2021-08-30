@@ -1,0 +1,20 @@
+Transitive group number 21 of degree 9
+
+Order: 162
+
+Transitivity: 1
+
+Eigenvalues: [(62, 2), (62, 2), (-19, 4), (-1, 48), (-1, 48), (-1, 48), (2, 72), (2, 72), (2, 72), (2, 72), (2, 72), (-4, 36), (-1, 48)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

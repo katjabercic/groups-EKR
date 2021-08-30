@@ -1,0 +1,20 @@
+Transitive group number 17 of degree 8
+
+Order: 32
+
+Transitivity: 1
+
+Eigenvalues: [(25, 1), (1, 18), (1, 18), (-7, 1), (1, 18), (1, 18), (1, 18), (1, 18), (-3, 12), (1, 18), (1, 18), (1, 18), (-3, 12), (-3, 12)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: True
+
+Primitive: False
+

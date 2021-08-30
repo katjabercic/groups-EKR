@@ -1,0 +1,20 @@
+Transitive group number 220 of degree 18
+
+Order: 648
+
+Transitivity: 1
+
+Eigenvalues: [(440, 1), (116, 1), (-46, 4), (44, 9), (-64, 9), (-1, 192), (-1, 192), (-1, 192), (-1, 192), (-13, 72), (-13, 72), (5, 72), (5, 72), (-1, 192), (-1, 192), (2, 288), (2, 288)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

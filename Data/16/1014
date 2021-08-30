@@ -1,0 +1,20 @@
+Transitive group number 1014 of degree 16
+
+Order: 512
+
+Transitivity: 1
+
+Eigenvalues: [(369, 1), (-15, 18), (49, 4), (49, 4), (-143, 1), (-15, 18), (49, 4), (49, 4), (17, 4), (-47, 4), (1, 224), (1, 224), (1, 224), (1, 224), (1, 224), (1, 224), (1, 224), (1, 224), (-15, 18), (1, 224), (1, 224), (1, 224), (1, 224), (1, 224), (1, 224), (1, 224), (1, 224), (1, 224), (-1, 128), (-1, 128), (7, 64), (-9, 64)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: False as ['There is a coclique of size |G|/n that is not the stabilizer of a point or a coset of one']
+
+Abelian: False
+
+Nilpotent: True
+
+Primitive: False
+

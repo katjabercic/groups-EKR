@@ -1,0 +1,20 @@
+Transitive group number 29 of degree 18
+
+Order: 72
+
+Transitivity: 1
+
+Eigenvalues: [(56, 1), (-4, 18), (-4, 18), (8, 4), (8, 4), (8, 4), (8, 4), (-16, 1), (2, 16), (2, 16), (-4, 18), (-4, 18), (2, 16), (2, 16), (-4, 18), (-4, 18), (-1, 32), (-1, 32)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

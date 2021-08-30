@@ -1,0 +1,20 @@
+Transitive group number 23 of degree 14
+
+Order: 588
+
+Transitivity: 1
+
+Eigenvalues: [(330, 1), (-258, 1), (36, 10), (36, 10), (36, 10), (36, 10), (36, 10), (36, 10), (36, 10), (36, 10), (36, 10), (36, 10), (-6, 144), (1, 432), (1, 432), (1, 432)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

@@ -1,0 +1,20 @@
+Transitive group number 33 of degree 15
+
+Order: 810
+
+Transitivity: 1
+
+Eigenvalues: [(658, 1), (10, 5), (10, 5), (10, 5), (10, 5), (10, 5), (-152, 4), (-152, 4), (-152, 4), (-152, 4), (-2, 300), (-2, 300), (4, 200), (1, 200), (-5, 100), (4, 200), (1, 200), (-2, 300)]
+
+EKR Property: True as ['A weighting on derangement classes gives EKR']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

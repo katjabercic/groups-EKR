@@ -1,0 +1,20 @@
+Transitive group number 861 of degree 16
+
+Order: 512
+
+Transitivity: 1
+
+Eigenvalues: [(409, 1), (1, 160), (1, 160), (1, 160), (1, 160), (1, 160), (1, 160), (1, 160), (1, 160), (9, 8), (9, 8), (25, 2), (-103, 1), (9, 8), (9, 8), (25, 2), (1, 160), (1, 160), (17, 8), (-47, 8), (-3, 32), (-3, 32), (5, 32), (5, 32), (-3, 32), (-3, 32), (5, 32), (5, 32), (-3, 32), (-3, 32), (5, 32), (5, 32), (1, 160), (1, 160), (9, 8), (-39, 4), (1, 160), (1, 160), (17, 8), (-47, 8), (-3, 32), (-3, 32), (5, 32), (5, 32), (1, 160), (1, 160), (1, 160), (1, 160), (1, 160), (-1, 128), (-1, 128), (3, 64), (-5, 64)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: True as ['The group has an n-clique and every module not in the permutation representation contains a maximum coclique']
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: True
+
+Primitive: False
+

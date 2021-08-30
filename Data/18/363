@@ -1,0 +1,20 @@
+Transitive group number 363 of degree 18
+
+Order: 2160
+
+Transitivity: 1
+
+Eigenvalues: [(1240, 1), (460, 1), (-230, 4), (-104, 25), (-8, 125), (52, 25), (4, 425), (10, 452), (10, 452), (-20, 209), (-20, 209), (40, 81), (-20, 209), (16, 100), (-8, 125), (-26, 100), (-2, 100), (-5, 512), (-5, 512), (10, 452), (4, 425)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+

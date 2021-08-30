@@ -1,0 +1,20 @@
+Transitive group number 148 of degree 18
+
+Order: 432
+
+Transitivity: 1
+
+Eigenvalues: [(338, 1), (8, 3), (-10, 3), (32, 3), (8, 3), (8, 3), (-10, 3), (-10, 3), (32, 3), (32, 3), (-94, 2), (-94, 2), (5, 12), (-1, 48), (5, 12), (5, 12), (-1, 48), (-1, 48), (-8, 9), (10, 9), (0, 9), (-18, 9), (-7, 36), (-1, 48), (1, 144), (3, 108), (1, 144), (-9, 36), (1, 144), (1, 144), (3, 108), (3, 108)]
+
+EKR Property: True as ['Group has a clique of size n']
+
+EKRM Property: None as []
+
+Strict EKR Property: None as []
+
+Abelian: False
+
+Nilpotent: False
+
+Primitive: False
+
