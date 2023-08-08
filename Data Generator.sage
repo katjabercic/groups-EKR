@@ -1,6 +1,11 @@
+import os
+import functools
+import json
+
 class Data_Generator:
-    def __init__(self, groups):
+    def __init__(self, groups, mdh=False):
         groups_left = len(groups)
+        all_data = []
         for group in groups:
             try:
                 print(f"{group}")
@@ -23,6 +28,8 @@ class Data_Generator:
                 print("Saving data")
                 data = {
                     "name": str(group),
+                    "transitive number": group.transitive_number(),
+                    "id": group.group_id(),
                     "degree": common.degree,
                     "number": self._get_number(common),
                     "order": common.order,
@@ -39,7 +46,11 @@ class Data_Generator:
                     "primitive": group.is_primitive(),
                 }
 
-                self._save(data)
+                if mdh:
+                    all_data += [self._mdh_json(data)]
+                    print(self._mdh_json(data))
+                else:
+                    self._save(data)
                 print("Data saved")
 
                 groups_left -= 1
@@ -56,6 +67,9 @@ class Data_Generator:
                 skipped_log.close()
 
                 groups_left -= 1
+
+        if mdh:
+            self._save_mdh(all_data)
 
     def _get_number(self, common):
         name = str(common.group)
@@ -110,5 +124,33 @@ class Data_Generator:
 
         data_file = open(f"Data/{degree}/{number}", "w")
         data_file.write(contents)
+        data_file.close()
+
+    def _mdh_json(self, data):
+        order = int(data["order"])
+        id = int(data["id"][1])
+        transitive_number = int(data["transitive number"])
+        degree = int(data["degree"])
+        transitivity = int(data["transitivity"])
+
+        eigenvalues = functools.reduce(lambda a, b : a + [int(b[0]), int(b[1])], data["eigenvalues"], [])
+        ekr = data["ekr"] 
+        ekr_reasons = data["ekr reasons"]
+        ekrm = data["ekrm"]
+        ekrm_reasons = data["ekrm reasons"]
+        sekr = data["sekr"] 
+        sekr_reasons = data["sekr reasons"]
+        
+        abelian = data["abelian"]
+        nilpotent = data["nilpotent"]
+        primitive = data["primitive"]
+        
+        return [order,id,transitive_number,degree,transitivity,eigenvalues,abelian,nilpotent,primitive]
+    
+    def _save_mdh(self, list):
+        if not os.path.exists("Export"):
+            os.makedirs("Export")
+        data_file = open(f"Export/EKR_data.json", "w")
+        data_file.write(json.dumps(list))
         data_file.close()
 
