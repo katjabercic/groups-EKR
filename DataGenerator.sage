@@ -1,31 +1,34 @@
 import os
 import functools
 import json
+import pathlib
+import logging as log
 
-class Data_Generator:
-    def __init__(self, groups, mdh=False):
+class DataGenerator:
+    def __init__(self, groups, output="Data", mdh=False):
+        self.output = output
         groups_left = len(groups)
         all_data = []
         for group in groups:
             try:
-                print(f"{group}")
-                print("Determing common properties")
+                log.info(f"{group}")
+                log.info("Determing common properties")
                 common = Common(group)
-                print("Common properties determined")
+                log.info("Common properties determined")
 
-                print("Determining EKR property")
-                ekr = EKR_Determiner(common)
-                print("EKR property determined")
+                log.info("Determining EKR property")
+                ekr = DeterminerEKR(common)
+                log.info("EKR property determined")
 
-                print("Determining EKR-module property")
-                ekrm = EKRM_Determiner(common, ekr)
-                print("EKR-module property determined")
+                log.info("Determining EKR-module property")
+                ekrm = DeterminerEKRM(common, ekr)
+                log.info("EKR-module property determined")
 
-                print("Determining strict EKR property")
-                strict_ekr = Strict_EKR_Determiner(common, ekr, ekrm)
-                print("Strict EKR property determined")
+                log.info("Determining strict EKR property")
+                strict_ekr = DeterminerEKRStrict(common, ekr, ekrm)
+                log.info("Strict EKR property determined")
 
-                print("Saving data")
+                log.info("Saving data")
                 data = {
                     "name": str(group),
                     "transitive number": group.transitive_number(),
@@ -48,24 +51,18 @@ class Data_Generator:
 
                 if mdh:
                     all_data += [self._mdh_json(data)]
-                    print(self._mdh_json(data))
                 else:
                     self._save(data)
-                print("Data saved")
+                log.info("Data saved")
 
                 groups_left -= 1
-                print(f"\n\n\nGroups left: {groups_left}")
+                print(f"\rGroups left: {groups_left}\r", end="")
         
             except Exception as e:
-                print("ENCOUNTERED ERROR - CHECK errors.txt")
-                error_log = open("errors.txt", "a")
-                error_log.write(f"While checking the EKR properties of {group} we encountered the error {e}\n\n\n")
-                error_log.close()
-
+                log.error(f"While checking the EKR properties of {group} we encountered the error {e}\n\n\n")
                 skipped_log = open("skipped.txt", "a")
                 skipped_log.write(f"{group}\n\n\n")
                 skipped_log.close()
-
                 groups_left -= 1
 
         if mdh:
@@ -95,6 +92,12 @@ class Data_Generator:
         return eigenvalues_nice
     
     def _save(self, data):
+        if os.path.exists(self.output):
+            assert os.path.isdir(self.output), "{0} exists but is not a directory".format(self.output)
+        else:
+            print ("Creating directory: {0}".format(self.output))
+            pathlib.Path(self.output).mkdir(parents=True, exist_ok=True)
+
         name = data["name"]
         degree = data["degree"]
         number = data["number"]
@@ -122,7 +125,13 @@ class Data_Generator:
         contents += f"Nilpotent: {nilpotent}\n\n"
         contents += f"Primitive: {primitive}\n\n"
 
-        data_file = open(f"Data/{degree}/{number}", "w")
+        degree_path = f"{self.output}/{degree}"
+        if os.path.exists(degree_path):
+            assert os.path.isdir(degree_path), "{0} exists but is not a directory".format(degree_path)
+        else:
+            print ("Creating directory: {0}".format(degree_path))
+            pathlib.Path(degree_path).mkdir(parents=True, exist_ok=True)
+        data_file = open(f"{degree_path}/{number}", "w")
         data_file.write(contents)
         data_file.close()
 
@@ -148,9 +157,13 @@ class Data_Generator:
         return [order,id,transitive_number,degree,transitivity,eigenvalues,abelian,nilpotent,primitive]
     
     def _save_mdh(self, list):
-        if not os.path.exists("Export"):
-            os.makedirs("Export")
-        data_file = open(f"Export/EKR_data.json", "w")
+        dirpath = os.path.dirname(self.output)
+        if os.path.exists(dirpath):
+            assert os.path.isdir(dirpath), "{0} exists but is not a directory".format(dirpath)
+        else:
+            log.info("Creating directory: {0}".format(dirpath))
+            pathlib.Path(dirpath).mkdir(parents=True, exist_ok=True)
+        data_file = open(self.output, "w")
         data_file.write(json.dumps(list))
         data_file.close()
 

@@ -1,6 +1,6 @@
 import numpy as np
 
-class Strict_EKR_Determiner:
+class DeterminerEKRStrict:
     def __init__(self, G, ekr_determiner, ekrm_determiner):
         self.G = G
         self.has_strict_ekr = None

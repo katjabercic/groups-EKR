@@ -1,4 +1,4 @@
-class EKRM_Determiner:
+class DeterminerEKRM:
     def __init__(self, G, ekr_determiner):
         self.G = G
         self.ekr_determiner = ekr_determiner

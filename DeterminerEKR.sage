@@ -1,6 +1,6 @@
 import os
 
-class EKR_Determiner:
+class DeterminerEKR:
     def __init__(self, G):
         self.G = G
         self.has_ekr = None

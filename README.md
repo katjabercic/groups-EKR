@@ -1,24 +1,45 @@
-# EKR Properties 
+# Installation
 
 Assuming working SageMath and Gurobi installations:
 
-1. Copy all files (except perhaps the data folder) into a common directory
-2. Using the Sage shell, navigate to this directory and attach the `attach.sage` file
+Clone the repository or copy all files (except perhaps the data folder) into a common directory.
+
+**Gurobi installation:** follow the instructions for the [free Academic Named-User License](https://www.gurobi.com/features/academic-named-user-license/).
+
+# Running the script
+
+To call the script with default parameters:
+
+- `sage --python generate.py --out export/EKR_data.json` for MathDataHub JSON,
+- `sage --python generate.py --no-mdh --out Data` to save data in the old format to the directory `Data`.
+
+**Example:** compute EKR properties for groups up to order 100 for degrees from 3 to 10 and save them in MDH format to the file `export/EKR_data.json`.
 
 ```
-attach("attach.sage")
+sage --python generate.py --max-order 100 --max-degree 10 --out export/EKR_data.json
 ```
 
-From the Sage shell you now have access to all the needed code. It may also be beneficial to look at the `_solve_lp()` function in the `EKR Determiner.sage` file. It calls the command needed to run Gurobi. The exact command needed may change based on your system, so if any errors with Gurobi occur, this is the place to check.
+## Parameters
 
 ```
-attach("attach.sage")
-max_order = 100
-for degree in range(3, 5):
-    groups_to_test = [G for G in TransitiveGroups(degree) if G.order() <= max_order]
-    Data_Generator(groups_to_test, mdh=True)
+usage: generate.py [-h] [--max-order MAX_ORDER] [--min-degree MIN_DEGREE] [--max-degree MAX_DEGREE] --out OUT [--no-mdh] [--verbose]
+
+optional arguments:
+  -h, --help            show this help message and exit
+  --max-order MAX_ORDER
+                        Compute EKR properties for groups of at most this order (the default is 10)
+  --min-degree MIN_DEGREE
+                        Compute EKR properties for groups of at least this degree (the default is 3)
+  --max-degree MAX_DEGREE
+                        Compute EKR properties for groups of at most this degree (the default is 5)
+  --out OUT             Output file for MDH, output directory for files by degree (required)
+  --no-mdh              Export in MathDataHub JSON format
+  --verbose             Print everything
 ```
 
-## Gurobi installation
+## Notes
 
-Follow the instructions for the [free Academic Named-User License](https://www.gurobi.com/features/academic-named-user-license/).
+I was not able to figure out how to conver this into a pure Python script that just uses Sage as a library. The current solution uses the (mostly) original Sage files. The file `generate.py` was obtained from a Sage script and can be run by calling `sage --python generate.py` with parameters.
+
+It may be beneficial to look at the `_solve_lp()` function in the `EKR Determiner.sage` file. It calls the command needed to run Gurobi. The exact command needed may change based on your system, so if any errors with Gurobi occur, this is the place to check.
+
